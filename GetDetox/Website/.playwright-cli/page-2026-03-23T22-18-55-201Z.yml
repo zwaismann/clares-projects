@@ -1,0 +1,1136 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - link "Waismann Method Logo" [ref=e10] [cursor=pointer]:
+        - /url: https://www.opiates.com
+        - img "Waismann Method Logo" [ref=e11]
+      - generic [ref=e13]:
+        - generic [ref=e17]:
+          - text:  
+          - link [ref=e21] [cursor=pointer]:
+            - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIyMzg5IiwidG9nZ2xlIjpmYWxzZX0%3D"
+            - generic [ref=e22]: 
+        - generic [ref=e26]:
+          - navigation "Menu" [ref=e27]:
+            - list [ref=e28]:
+              - listitem [ref=e29]:
+                - link "Waismann Method" [ref=e30] [cursor=pointer]:
+                  - /url: https://www.opiates.com/waismann
+                  - text: Waismann Method
+                  - generic [ref=e31]:
+                    - generic: 
+              - listitem [ref=e32]:
+                - link "Rapid Detox" [ref=e33] [cursor=pointer]:
+                  - /url: https://www.opiates.com/rapid-detox
+                  - text: Rapid Detox
+                  - generic [ref=e34]:
+                    - generic: 
+              - listitem [ref=e35]:
+                - generic [ref=e36]:
+                  - text: Medical Detox Options
+                  - generic [ref=e37]:
+                    - generic: 
+              - listitem [ref=e38]:
+                - generic [ref=e39]:
+                  - text: Press & Features
+                  - generic [ref=e40]:
+                    - generic: 
+              - listitem [ref=e41]:
+                - link "Contact Us" [ref=e42] [cursor=pointer]:
+                  - /url: https://www.opiates.com/contact-us
+                  - text: Contact Us
+                  - generic [ref=e43]:
+                    - generic: 
+          - text:  
+    - text:         
+  - generic [ref=e44]:
+    - generic [ref=e49]:
+      - paragraph [ref=e56]: "Waismann Method ®: Global Authority on Rapid Opioid Detoxification, Education, and Recovery Science"
+      - paragraph [ref=e59]: Rapid Detox
+      - generic [ref=e61]:
+        - paragraph [ref=e62]
+        - paragraph [ref=e63]: Waismann Method now serves as an educational and informational resource, offering research-driven guidance on opioid use, dependence, withdrawal, and treatment options for clinicians, researchers, and the public.
+        - heading "Important Notice:" [level=3] [ref=e64]
+        - paragraph [ref=e65]: Waismann Method® is based exclusively in Southern California. We are not affiliated with any other center, provider, or individual claiming association with our name or services. Any use of our trademark by unauthorized parties is strictly prohibited. We do not endorse unlicensed practitioners, overnight detox facilities, or programs making misleading or unsubstantiated promises. The Waismann Method® name is legally protected and may not be used by any other entity.
+        - generic [ref=e66]: Empty heading
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph:
+                      - generic [ref=e67]: Empty heading
+    - generic [ref=e75]:
+      - generic [ref=e80]:
+        - figure [ref=e81]:
+          - link [ref=e82] [cursor=pointer]:
+            - /url: https://www.opiates.com/waismann/
+        - paragraph [ref=e84]:
+          - link "Why Choose Waismann Method®" [ref=e85] [cursor=pointer]:
+            - /url: https://www.opiates.com/waismann
+            - text: Why Choose
+            - text: Waismann Method®
+      - generic [ref=e90]:
+        - figure [ref=e91]:
+          - link [ref=e92] [cursor=pointer]:
+            - /url: https://www.opiates.com/rapid-detox/
+        - paragraph [ref=e94]:
+          - link "Rapid Detox Under Sedation" [ref=e95] [cursor=pointer]:
+            - /url: https://www.opiates.com/rapid-detox
+      - generic [ref=e100]:
+        - figure [ref=e101]:
+          - link [ref=e102] [cursor=pointer]:
+            - /url: https://www.opiates.com/medication-assisted-vs-medically-assisted-detox/
+        - paragraph [ref=e104]:
+          - link "Medically Assisted Detox" [ref=e105] [cursor=pointer]:
+            - /url: https://www.opiates.com/medically-assisted-detox
+            - text: Medically
+            - text: Assisted Detox
+      - generic [ref=e110]:
+        - figure [ref=e111]:
+          - link [ref=e112] [cursor=pointer]:
+            - /url: https://www.opiates.com/after-care/
+        - paragraph [ref=e114]:
+          - link "Recovery Treatment Program" [ref=e115] [cursor=pointer]:
+            - /url: https://www.opiates.com/after-care
+            - text: Recovery
+            - text: Treatment Program
+      - generic [ref=e120]:
+        - figure [ref=e121]:
+          - link [ref=e122] [cursor=pointer]:
+            - /url: https://www.opiates.com/detox-cost/
+        - paragraph [ref=e124]:
+          - link "Drug Treatment Cost & Financing" [ref=e125] [cursor=pointer]:
+            - /url: https://www.opiates.com/detox-cost
+            - text: Drug Treatment
+            - text: Cost & Financing
+    - generic [ref=e129]:
+      - generic [ref=e135]:
+        - list [ref=e136]:
+          - listitem [ref=e137]:
+            - paragraph [ref=e138]:
+              - strong [ref=e139]: "Hospital-Based, Medically Supervised Detox:"
+              - text: Recognized for its rigorous safety standards, the Waismann Method® pioneered rapid opioid detoxification in a full-service, JCAHO-accredited hospital setting, ensuring patient safety and optimal outcomes. Learn more about hospital-based detox protocols and their role in modern addiction medicine.
+          - listitem [ref=e140]:
+            - paragraph [ref=e141]:
+              - strong [ref=e142]: "Individualized Withdrawal Management:"
+              - text: Every person’s experience with opioid dependence is unique. Our educational resources highlight the importance of personalized assessment, tailored treatment plans, and ongoing support for those facing opioid withdrawal and recovery.
+          - listitem [ref=e143]:
+            - paragraph [ref=e144]:
+              - strong [ref=e145]: "Sedation-Assisted Detox:"
+              - text: Explore the science behind sedation-assisted opioid detoxification, including its benefits, risks, and clinical applications. Our expert-reviewed guides help you understand how sedation can reduce withdrawal severity and support neurological stabilization.
+          - listitem [ref=e146]:
+            - paragraph [ref=e147]:
+              - strong [ref=e148]: "Comprehensive Aftercare and Recovery Support:"
+              - text: Discover science-based strategies for relapse prevention, emotional stabilization, and long-term recovery, including the role of aftercare programs and community resources.
+        - 'heading "Understanding Opioid Dependence: A Medical Perspective" [level=2] [ref=e149]'
+        - paragraph [ref=e150]: Opioid use disorder is a chronic, treatable medical condition-not a moral failing. Long-term opioid use, whether from prescription painkillers or illicit substances, can alter brain chemistry, leading to tolerance, physical dependence, and challenging withdrawal symptoms. Addressing OUD with medical expertise and compassion is essential for effective recovery and improved quality of life.
+        - heading "The Science Behind Opioid Detoxification" [level=2] [ref=e151]
+        - paragraph [ref=e152]: Medically assisted opioid detox, such as the protocols developed by the Waismann Method®, is supported by research demonstrating that professional supervision, symptom management, and individualized care significantly improve safety and outcomes. Hospital-based protocols can reduce complications, provide rapid stabilization, and support neurological recovery-key factors for anyone seeking to break free from opioid dependence.
+        - blockquote [ref=e153]:
+          - paragraph [ref=e154]:
+            - strong [ref=e155]: “Understanding addiction as a medical condition transforms how we approach recovery. It’s not about overcoming weakness but addressing a health issue with compassion and professional care.”
+          - paragraph [ref=e156]: Clare Waismann, M-RAS/SUDCC II
+        - heading "Explore Our Expert Resources" [level=2] [ref=e157]
+        - paragraph [ref=e158]: For in-depth information on opioid detoxification, withdrawal symptoms, recovery strategies, and the latest advances in addiction medicine, browse our comprehensive guides, educational courses, and professional training materials. Whether you’re a healthcare provider, educator, or someone seeking reliable information, www.opiates.com® is your trusted partner in opioid education and awareness.
+      - generic [ref=e164]:
+        - generic [ref=e166]:
+          - link "Rapid Detox" [ref=e170] [cursor=pointer]:
+            - /url: https://www.opiates.com/rapid-detox/
+            - generic [ref=e172]: Rapid Detox
+          - link "Oxycodone Detox" [ref=e176] [cursor=pointer]:
+            - /url: https://www.opiates.com/oxycodone-detox/
+            - generic [ref=e178]: Oxycodone Detox
+        - generic [ref=e180]:
+          - link "Methadone Detox" [ref=e184] [cursor=pointer]:
+            - /url: https://www.opiates.com/methadone-detox/
+            - generic [ref=e186]: Methadone Detox
+          - link "Fentanyl Detox" [ref=e190] [cursor=pointer]:
+            - /url: https://www.opiates.com/fentanyl-detox
+            - generic [ref=e192]: Fentanyl Detox
+        - generic [ref=e194]:
+          - link "Heroin Detox" [ref=e198] [cursor=pointer]:
+            - /url: https://www.opiates.com/heroin-withdrawal-and-detox/
+            - generic [ref=e200]: Heroin Detox
+          - link "Prescription Drug Detox" [ref=e204] [cursor=pointer]:
+            - /url: https://www.opiates.com/getting-off-prescription-painkillers/
+            - generic [ref=e206]: Prescription Drug Detox
+        - generic [ref=e208]:
+          - link "Buprenorphine/ Suboxone Detox" [ref=e212] [cursor=pointer]:
+            - /url: https://www.opiates.com/suboxone-detox
+            - generic [ref=e214]: Buprenorphine/ Suboxone Detox
+          - link "Alcohol Detox" [ref=e218] [cursor=pointer]:
+            - /url: https://www.opiates.com/medical-alcohol-detox-program/
+            - generic [ref=e220]: Alcohol Detox
+    - generic [ref=e224]:
+      - heading "How Waismann Method Rapid Detox Should Work?" [level=2] [ref=e227]
+      - generic [ref=e230]:
+        - button "Pre-Admission Screening and Medical Clearance" [ref=e232] [cursor=pointer]:
+          - generic [ref=e233]:
+            - generic [ref=e235]: 
+            - text: 
+          - text: Pre-Admission Screening and Medical Clearance
+        - button "Full Inpatient Admission – At Least One Day Prior to Detox" [ref=e237] [cursor=pointer]:
+          - generic [ref=e238]:
+            - generic [ref=e240]: 
+            - text: 
+          - text: Full Inpatient Admission – At Least One Day Prior to Detox
+        - button "Sedation-Assisted Detox – Typically on Day Two" [ref=e242] [cursor=pointer]:
+          - generic [ref=e243]:
+            - generic [ref=e245]: 
+            - text: 
+          - text: Sedation-Assisted Detox – Typically on Day Two
+        - button "Inpatient Monitoring for a Few Days Post-Detox" [ref=e247] [cursor=pointer]:
+          - generic [ref=e248]:
+            - generic [ref=e250]: 
+            - text: 
+          - text: Inpatient Monitoring for a Few Days Post-Detox
+    - link "Read The Articles" [ref=e284] [cursor=pointer]:
+      - /url: https://www.opiates.com/media
+      - generic [ref=e286]: Read The Articles
+    - generic [ref=e290]:
+      - generic [ref=e292]:
+        - generic:
+          - generic:
+            - generic:
+              - generic [ref=e296]:
+                - heading "Fentanyl Detox, Massachusetts" [level=4] [ref=e297]:
+                  - link "Fentanyl Detox, Massachusetts" [ref=e298] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-massachusetts-2
+                - generic [ref=e300]:
+                  - generic [ref=e301]: 
+                  - text: "2025"
+                - generic [ref=e303]: Everyone was warm and amazing.
+              - generic [ref=e307]:
+                - heading "Methadone Detox, Colorado" [level=4] [ref=e308]:
+                  - link "Methadone Detox, Colorado" [ref=e309] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/methadone-detox-colorado
+                - generic [ref=e311]:
+                  - generic [ref=e312]: 
+                  - text: "2025"
+                - generic [ref=e314]: Excellent people. Excellent results. You did exactly what you said you were going to do.
+              - generic [ref=e318]:
+                - heading "Fentanyl Detox, Rhode Island" [level=4] [ref=e319]:
+                  - link "Fentanyl Detox, Rhode Island" [ref=e320] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-rhode-island
+                - generic [ref=e322]:
+                  - generic [ref=e323]: 
+                  - text: "2025"
+                - generic [ref=e325]: Overall I have an outpouring of gratitude and am ecstatic to have chosen this program. If Clare and Dr. Lowenstein ever wanted to open a ...
+              - generic [ref=e329]:
+                - heading "Suboxone Detox, California" [level=4] [ref=e330]:
+                  - link "Suboxone Detox, California" [ref=e331] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/suboxone-detox-california-2
+                - generic [ref=e333]:
+                  - generic [ref=e334]: 
+                  - text: "2025"
+                - generic [ref=e336]: I feel it was the best decision and most effective way to sobriety.
+              - generic [ref=e340]:
+                - heading "Kratom Detox, New York" [level=4] [ref=e341]:
+                  - link "Kratom Detox, New York" [ref=e342] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/kratom-detox-new-york
+                - generic [ref=e344]:
+                  - generic [ref=e345]: 
+                  - text: "2025"
+                - generic [ref=e347]: By the grace of God, the Waismann Method was the first rapid detox I found via GOOGLE search. I felt after speaking with Lorena and ...
+              - generic [ref=e351]:
+                - heading "Fentanyl Detox, Nevada" [level=4] [ref=e352]:
+                  - link "Fentanyl Detox, Nevada" [ref=e353] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-nevada
+                - generic [ref=e355]:
+                  - generic [ref=e356]: 
+                  - text: "2024"
+                - generic [ref=e358]: Happy with the choice I made.
+              - generic [ref=e362]:
+                - heading "Oxycodone Detox, Nevada" [level=4] [ref=e363]:
+                  - link "Oxycodone Detox, Nevada" [ref=e364] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-detox-nevada
+                - generic [ref=e366]:
+                  - generic [ref=e367]: 
+                  - text: "2024"
+                - generic [ref=e369]: Happy with the choice I made.
+              - generic [ref=e373]:
+                - heading "Fentanyl Detox, California" [level=4] [ref=e374]:
+                  - link "Fentanyl Detox, California" [ref=e375] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-california-2
+                - generic [ref=e377]:
+                  - generic [ref=e378]: 
+                  - text: "2024"
+                - generic [ref=e380]: Everyone here has been fantastic.
+              - generic [ref=e384]:
+                - heading "Percocet Detox, Pennsylvania" [level=4] [ref=e385]:
+                  - link "Percocet Detox, Pennsylvania" [ref=e386] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/percocet-detox-pennsylvania-2
+                - generic [ref=e388]:
+                  - generic [ref=e389]: 
+                  - text: "2024"
+                - generic [ref=e391]: I feel for the first time in 10+ years true hope and optimism. I am no longer tethered to any opitates and the pain and ...
+              - generic [ref=e395]:
+                - heading "Percocet Detox, Pennsylvania" [level=4] [ref=e396]:
+                  - link "Percocet Detox, Pennsylvania" [ref=e397] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/percocet-detox-pennsylvania
+                - generic [ref=e399]:
+                  - generic [ref=e400]: 
+                  - text: "2024"
+                - generic [ref=e402]: I randomly searched online. Stumbled upon Reddit and then did more research, called and spoke with Clare, and felt this was my one chance to ...
+              - generic [ref=e406]:
+                - heading "Fentanyl Detox, California" [level=4] [ref=e407]:
+                  - link "Fentanyl Detox, California" [ref=e408] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-california
+                - generic [ref=e410]:
+                  - generic [ref=e411]: 
+                  - text: "2024"
+                - generic [ref=e413]: Very happy with choosing Waismann/DOMUS. A little nervous and scared. But knowing I have the people around me to help, I feel more confident about ...
+              - generic [ref=e417]:
+                - heading "Suboxone Detox, California" [level=4] [ref=e418]:
+                  - link "Suboxone Detox, California" [ref=e419] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/suboxone-detox-california
+                - generic [ref=e421]:
+                  - generic [ref=e422]: 
+                  - text: "2024"
+                - generic [ref=e424]: This was a scary choice to make, but the greatest things in life lie on the other side of fear. I am so happy I ...
+              - generic [ref=e428]:
+                - heading "Fentanyl Detox, Massachusetts" [level=4] [ref=e429]:
+                  - link "Fentanyl Detox, Massachusetts" [ref=e430] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-massachusetts
+                - generic [ref=e432]:
+                  - generic [ref=e433]: 
+                  - text: "2024"
+                - generic [ref=e435]: This was the best place for me to choose. Of course, I already got my gym membership.
+              - generic [ref=e439]:
+                - heading "Alcohol Detox, Texas" [level=4] [ref=e440]:
+                  - link "Alcohol Detox, Texas" [ref=e441] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/alcohol-detox-texas
+                - generic [ref=e443]:
+                  - generic [ref=e444]: 
+                  - text: "2024"
+                - generic [ref=e446]: Hands down best experience and the correct way/path to recovery.
+              - generic [ref=e450]:
+                - heading "Medically Assisted Detox, Colorado" [level=4] [ref=e451]:
+                  - link "Medically Assisted Detox, Colorado" [ref=e452] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/medically-assisted-detox-colorado
+                - generic [ref=e454]:
+                  - generic [ref=e455]: 
+                  - text: "2024"
+                - generic [ref=e457]: Glad to get it over with and think this was the best place to do it.
+              - generic [ref=e461]:
+                - heading "Fentanyl Detox, Canada" [level=4] [ref=e462]:
+                  - link "Fentanyl Detox, Canada" [ref=e463] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-canada
+                - generic [ref=e465]:
+                  - generic [ref=e466]: 
+                  - text: "2024"
+                - generic [ref=e468]: Excellent investment which I believe saved my life don’t believe the lies that some are spreading online. I experienced 10% of the withdrawals as with ...
+              - generic [ref=e472]:
+                - heading "Norco Detox, California" [level=4] [ref=e473]:
+                  - link "Norco Detox, California" [ref=e474] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/norco-detox-2
+                - generic [ref=e476]:
+                  - generic [ref=e477]: 
+                  - text: "2024"
+                - generic [ref=e479]: A great choice.
+              - generic [ref=e483]:
+                - heading "Oxycodone Detox, Pennsylvania" [level=4] [ref=e484]:
+                  - link "Oxycodone Detox, Pennsylvania" [ref=e485] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-detox
+                - generic [ref=e487]:
+                  - generic [ref=e488]: 
+                  - text: "2024"
+                - generic [ref=e490]: It was the most humane way to go through something so traumatic and difficult. They do their best to keep you comfortable quickly.
+              - generic [ref=e494]:
+                - heading "Fentanyl Detox, Washington" [level=4] [ref=e495]:
+                  - link "Fentanyl Detox, Washington" [ref=e496] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-3
+                - generic [ref=e498]:
+                  - generic [ref=e499]: 
+                  - text: "2024"
+                - generic [ref=e501]: Waismann Method gave me back my life taking away the pull of the leash of opioids Domus Retreat is beyond compare.
+              - generic [ref=e505]:
+                - heading "Roxicodone Detox, California" [level=4] [ref=e506]:
+                  - link "Roxicodone Detox, California" [ref=e507] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/roxicodone-detox
+                - generic [ref=e509]:
+                  - generic [ref=e510]: 
+                  - text: "2024"
+                - generic [ref=e512]: Very happy… life-changing!
+              - generic [ref=e516]:
+                - heading "Hydrocodone Detox, Texas" [level=4] [ref=e517]:
+                  - link "Hydrocodone Detox, Texas" [ref=e518] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/hydrocodone-detox
+                - generic [ref=e520]:
+                  - generic [ref=e521]: 
+                  - text: "2023"
+                - generic [ref=e523]: I am 100% convinced this method worked beyond my expectations. As someone who was not a hardcore addict but was still afraid of natural cold ...
+              - generic [ref=e527]:
+                - heading "Fentanyl Detox, California" [level=4] [ref=e528]:
+                  - link "Fentanyl Detox, California" [ref=e529] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-2
+                - generic [ref=e531]:
+                  - generic [ref=e532]: 
+                  - text: "2023"
+                - generic [ref=e534]: I could not be more impressed with Dr. Lowenstein and giving me the modified withdrawal method which was excellent and Domus Retreat is gorgeous. Well ...
+              - generic [ref=e538]:
+                - heading "Norco Detox, Indiana" [level=4] [ref=e539]:
+                  - link "Norco Detox, Indiana" [ref=e540] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/norco-detox
+                - generic [ref=e542]:
+                  - generic [ref=e543]: 
+                  - text: "2023"
+                - generic [ref=e545]: I feel beyond blessed to be able to have the opportunity to come here. I wish it was more affordable for others though.
+              - generic [ref=e549]:
+                - heading "Percocet and Fentanyl Detox, Texas" [level=4] [ref=e550]:
+                  - link "Percocet and Fentanyl Detox, Texas" [ref=e551] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/percocet-and-fentanyl-detox
+                - generic [ref=e553]:
+                  - generic [ref=e554]: 
+                  - text: "2023"
+                - generic [ref=e556]: Y’all gave me control again. I’m ready for my life without using meds as a crutch.
+              - generic [ref=e560]:
+                - heading "Fentanyl Detox, California" [level=4] [ref=e561]:
+                  - link "Fentanyl Detox, California" [ref=e562] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox
+                - generic [ref=e564]:
+                  - generic [ref=e565]: 
+                  - text: "2023"
+                - generic [ref=e567]: This facility was an A-1 operation. Thank you to all of you.
+              - generic [ref=e571]:
+                - heading "Fentanyl Detox, Colorado" [level=4] [ref=e572]:
+                  - link "Fentanyl Detox, Colorado" [ref=e573] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-patient-7
+                - generic [ref=e575]:
+                  - generic [ref=e576]: 
+                  - text: "2023"
+                - generic [ref=e578]: Staff exceeded my expectations tremendously!
+              - generic [ref=e582]:
+                - heading "Fentanyl and Methadone Detox, Colorado" [level=4] [ref=e583]:
+                  - link "Fentanyl and Methadone Detox, Colorado" [ref=e584] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-and-methadone-detox-patient
+                - generic [ref=e586]:
+                  - generic [ref=e587]: 
+                  - text: "2023"
+                - generic [ref=e589]: The 100% attention at all times. Early, late, it didn’t matter.
+              - generic [ref=e593]:
+                - heading "Oxycodone and Morphine Rapid Detox, South Carolina" [level=4] [ref=e594]:
+                  - link "Oxycodone and Morphine Rapid Detox, South Carolina" [ref=e595] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-and-methadone-detox-patient-3
+                - generic [ref=e597]:
+                  - generic [ref=e598]: 
+                  - text: "2023"
+                - generic [ref=e600]: Excellent choice, best decision ever. I am so glad I came here more than anywhere else.
+              - generic [ref=e604]:
+                - heading "Methadone Detox, California" [level=4] [ref=e605]:
+                  - link "Methadone Detox, California" [ref=e606] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/methadone-detox-patient-18
+                - generic [ref=e608]:
+                  - generic [ref=e609]: 
+                  - text: "2023"
+                - generic [ref=e611]: I’m fully ready to go and be with my family
+              - generic [ref=e615]:
+                - heading "Methadone Detox, California" [level=4] [ref=e616]:
+                  - link "Methadone Detox, California" [ref=e617] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/methodone-detox-patient
+                - generic [ref=e619]:
+                  - generic [ref=e620]: 
+                  - text: "2023"
+                - generic [ref=e622]: It was the only way I could have gotten off methadone. It was a life changing experience. Best decision I could make.
+              - generic [ref=e626]:
+                - heading "Hydrocodone, Oxycodone, Oxycontin, Fentanyl Detox, Arizona" [level=4] [ref=e627]:
+                  - link "Hydrocodone, Oxycodone, Oxycontin, Fentanyl Detox, Arizona" [ref=e628] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/hydrocodone-oxycodone-oxycontin-fentanyl-patient
+                - generic [ref=e630]:
+                  - generic [ref=e631]: 
+                  - text: "2023"
+                - generic [ref=e633]: Great Program
+              - generic [ref=e637]:
+                - heading "Percocet and Fentanyl Detox, Massachusetts" [level=4] [ref=e638]:
+                  - link "Percocet and Fentanyl Detox, Massachusetts" [ref=e639] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/percocet-and-fentanyl-detox-patient
+                - generic [ref=e641]:
+                  - generic [ref=e642]: 
+                  - text: "2023"
+                - generic [ref=e644]: Amazing experience. The only way to really get off opiates with minimal hell!
+              - generic [ref=e648]:
+                - heading "Percocet Detox, Washington" [level=4] [ref=e649]:
+                  - link "Percocet Detox, Washington" [ref=e650] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/percocet-detox-patient-19
+                - generic [ref=e652]:
+                  - generic [ref=e653]: 
+                  - text: "2023"
+                - generic [ref=e655]: How hospitable they were
+              - generic [ref=e659]:
+                - heading "Dilaudid Detox, South Carolina" [level=4] [ref=e660]:
+                  - link "Dilaudid Detox, South Carolina" [ref=e661] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/dilauded-patient
+                - generic [ref=e663]:
+                  - generic [ref=e664]: 
+                  - text: "2023"
+                - generic [ref=e666]: Very nice place
+              - generic [ref=e670]:
+                - heading "Oxycodone Detox, California" [level=4] [ref=e671]:
+                  - link "Oxycodone Detox, California" [ref=e672] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-detox-patient-24
+                - generic [ref=e674]:
+                  - generic [ref=e675]: 
+                  - text: "2023"
+                - generic [ref=e677]: Great care. Detox was quicker and more comfortable. Ready to heal and slowly get back to life.
+              - generic [ref=e681]:
+                - heading "Hydrocodone, California" [level=4] [ref=e682]:
+                  - link "Hydrocodone, California" [ref=e683] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/hydrocodone-patient-3
+                - generic [ref=e685]:
+                  - generic [ref=e686]: 
+                  - text: "2023"
+                - generic [ref=e688]: Really great, it works
+              - generic [ref=e692]:
+                - heading "Oxycodone Detox, California" [level=4] [ref=e693]:
+                  - link "Oxycodone Detox, California" [ref=e694] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/opiates-detox-patient
+                - generic [ref=e696]:
+                  - generic [ref=e697]: 
+                  - text: "2023"
+                - generic [ref=e699]: Great Place
+              - generic [ref=e703]:
+                - heading "Oxycodone and Cocaine Detox, Minnesota" [level=4] [ref=e704]:
+                  - link "Oxycodone and Cocaine Detox, Minnesota" [ref=e705] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-detox-patient-25
+                - generic [ref=e707]:
+                  - generic [ref=e708]: 
+                  - text: "2023"
+                - generic [ref=e710]: Great option if needing detox
+              - generic [ref=e714]:
+                - heading "Methadone Detox, Washington" [level=4] [ref=e715]:
+                  - link "Methadone Detox, Washington" [ref=e716] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/methadone-detox-patient-19
+                - generic [ref=e718]:
+                  - generic [ref=e719]: 
+                  - text: "2023"
+                - generic [ref=e721]: It is a miracle to be able to save someone after 15 years of being on methadone
+              - generic [ref=e725]:
+                - heading "Oxycodone Detox, Oregon" [level=4] [ref=e726]:
+                  - link "Oxycodone Detox, Oregon" [ref=e727] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-detox-patient-26
+                - generic [ref=e729]:
+                  - generic [ref=e730]: 
+                  - text: "2023"
+                - generic [ref=e732]: It works!!
+              - generic [ref=e736]:
+                - heading "Heroin Detox, California" [level=4] [ref=e737]:
+                  - link "Heroin Detox, California" [ref=e738] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/heroin-detox-patient-28
+                - generic [ref=e740]:
+                  - generic [ref=e741]: 
+                  - text: "2023"
+                - generic [ref=e743]: I feel like it’s the best choice I’ve made to heal.
+              - generic [ref=e747]:
+                - heading "Heroin Detox, California" [level=4] [ref=e748]:
+                  - link "Heroin Detox, California" [ref=e749] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/heroin-detox-patient-26
+                - generic [ref=e751]:
+                  - generic [ref=e752]: 
+                  - text: "2023"
+                - generic [ref=e754]: Best facility in California
+              - generic [ref=e758]:
+                - heading "Fentanyl Detox, Washington" [level=4] [ref=e759]:
+                  - link "Fentanyl Detox, Washington" [ref=e760] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-detox-patient-6
+                - generic [ref=e762]:
+                  - generic [ref=e763]: 
+                  - text: "2023"
+                - generic [ref=e765]: I’m happy to have done it. I believe it will positively change my life.
+              - generic [ref=e769]:
+                - heading "Oxycodone and Percocet Detox" [level=4] [ref=e770]:
+                  - link "Oxycodone and Percocet Detox" [ref=e771] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-and-percocet-detox-patient
+                - generic [ref=e773]:
+                  - generic [ref=e774]: 
+                  - text: "2023"
+                - generic [ref=e776]: Both chefs went out of their way to make me special meals.
+              - generic [ref=e780]:
+                - heading "Fentanyl and Heroin Detox, Florida" [level=4] [ref=e781]:
+                  - link "Fentanyl and Heroin Detox, Florida" [ref=e782] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/fentanyl-and-heroin-detox-patient
+                - generic [ref=e784]:
+                  - generic [ref=e785]: 
+                  - text: "2023"
+                - generic [ref=e787]: I achieved full opiod recovery and plan to remain sober. I’ll take the necessary steps to do that. The food was great. The care was ...
+              - generic [ref=e791]:
+                - heading "Hydrocodone Detox, Texas" [level=4] [ref=e792]:
+                  - link "Hydrocodone Detox, Texas" [ref=e793] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/hydrocodone-patient-2
+                - generic [ref=e795]:
+                  - generic [ref=e796]: 
+                  - text: "2023"
+                - generic [ref=e798]: For me personally it has been one extremely educational right of passage.
+              - generic [ref=e802]:
+                - heading "Heroin Detox, Massachusetts" [level=4] [ref=e803]:
+                  - link "Heroin Detox, Massachusetts" [ref=e804] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/heroin-detox-patient-24
+                - generic [ref=e806]:
+                  - generic [ref=e807]: 
+                  - text: "2023"
+                - generic [ref=e809]: The staff was excellent.
+              - generic [ref=e813]:
+                - heading "Heroin Detox, Massachusetts" [level=4] [ref=e814]:
+                  - link "Heroin Detox, Massachusetts" [ref=e815] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/heroin-detox-patient-25
+                - generic [ref=e817]:
+                  - generic [ref=e818]: 
+                  - text: "2023"
+                - generic [ref=e820]: Heaven. Highly recommend.
+              - generic [ref=e824]:
+                - heading "Oxycodone Detox, California" [level=4] [ref=e825]:
+                  - link "Oxycodone Detox, California" [ref=e826] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-detox-patient-23
+                - generic [ref=e828]:
+                  - generic [ref=e829]: 
+                  - text: "2023"
+                - generic [ref=e831]: Finest in the world. Everything was excellent.
+              - generic [ref=e835]:
+                - heading "Percocet Detox, Illinois" [level=4] [ref=e836]:
+                  - link "Percocet Detox, Illinois" [ref=e837] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/percocet-detox-patient-18
+                - generic [ref=e839]:
+                  - generic [ref=e840]: 
+                  - text: "2023"
+                - generic [ref=e842]: Staff was awesome
+              - generic [ref=e846]:
+                - heading "Suboxone Detox, Washington" [level=4] [ref=e847]:
+                  - link "Suboxone Detox, Washington" [ref=e848] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/suboxone-detox-patient-21
+                - generic [ref=e850]:
+                  - generic [ref=e851]: 
+                  - text: "2021"
+                - generic [ref=e853]: I’m very pleased with the outcome and look forward to healing further in the coming weeks.
+              - generic [ref=e857]:
+                - heading "Oxycodone Detox, Colorado" [level=4] [ref=e858]:
+                  - link "Oxycodone Detox, Colorado" [ref=e859] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-detox-patient-19
+                - generic [ref=e861]:
+                  - generic [ref=e862]: 
+                  - text: "2021"
+                - generic [ref=e864]: This is the healthiest I have felt in years If you really want to get clean this program is perfect. You will detox as quick ...
+              - generic [ref=e868]:
+                - heading "Oxycontin Detox, Texas" [level=4] [ref=e869]:
+                  - link "Oxycontin Detox, Texas" [ref=e870] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-detox-patient-12
+                - generic [ref=e872]:
+                  - generic [ref=e873]: 
+                  - text: "2021"
+                - generic [ref=e875]: I was scared about coming here. As soon as I called and spoke with the team, I knew I was on my way to recovery. ...
+              - generic [ref=e879]:
+                - heading "Oxycodone and Oxycontin Detox" [level=4] [ref=e880]:
+                  - link "Oxycodone and Oxycontin Detox" [ref=e881] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-and-oxycontin-detox-patient
+                - generic [ref=e883]:
+                  - generic [ref=e884]: 
+                  - text: "2021"
+                - generic [ref=e886]: Opportunity to get back on track and find my dream to follow I cannot begin to tell you how amazing the Domus Retreat is. When ...
+              - generic [ref=e890]:
+                - heading "Percocet Detox" [level=4] [ref=e891]:
+                  - link "Percocet Detox" [ref=e892] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/percocet-detox-patient-17
+                - generic [ref=e894]:
+                  - generic [ref=e895]: 
+                  - text: "2021"
+                - generic [ref=e897]: 100 Percocet A Day Habit Despite earlier attempts to detox off opiates, the experience at Waismann was the easiest, safest, healthiest way I could have ...
+              - generic [ref=e901]:
+                - heading "Norco Detox" [level=4] [ref=e902]:
+                  - link "Norco Detox" [ref=e903] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/norco-detox-patient-9
+                - generic [ref=e905]:
+                  - generic [ref=e906]: 
+                  - text: "2021"
+                - generic [ref=e908]: TO ANYONE WITH DRUG DEPENDENCY “This program is not an easy way out but is thorough & controlled. As with all good things they don’t ...
+              - generic [ref=e912]:
+                - heading "Methadone Detox" [level=4] [ref=e913]:
+                  - link "Methadone Detox" [ref=e914] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/methadone-detox-patient-16
+                - generic [ref=e916]:
+                  - generic [ref=e917]: 
+                  - text: "2021"
+                - generic [ref=e919]: If you have any concerns about the place put it behind you Even though everybody’s experience is different. They will make sure you have the ...
+              - generic [ref=e923]:
+                - heading "Rapid Detox" [level=4] [ref=e924]:
+                  - link "Rapid Detox" [ref=e925] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/rapid-detox-patient-35
+                - generic [ref=e927]:
+                  - generic [ref=e928]: 
+                  - text: "2021"
+                - generic [ref=e930]: I felt that the Domus Retreat was the most successful rehabilitation from opiate or opioid dependency. I felt that the Domus Retreat was the most ...
+              - generic [ref=e934]:
+                - heading "Oxycontin Detox" [level=4] [ref=e935]:
+                  - link "Oxycontin Detox" [ref=e936] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-detox-patient-16
+                - generic [ref=e938]:
+                  - generic [ref=e939]: 
+                  - text: "2021"
+                - generic [ref=e941]: Oxycontin Testimonial How great this was? That I got the care & treatment needed to save my life. – Detox Patient, 2009
+              - generic [ref=e945]:
+                - heading "Percocet Detox" [level=4] [ref=e946]:
+                  - link "Percocet Detox" [ref=e947] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/percocet-detox-patient-6
+                - generic [ref=e949]:
+                  - generic [ref=e950]: 
+                  - text: "2021"
+                - generic [ref=e952]: Percocet Testimonial Excellent method for getting your life back. – Detox Patient, 2009
+              - generic [ref=e956]:
+                - heading "Suboxone Detox" [level=4] [ref=e957]:
+                  - link "Suboxone Detox" [ref=e958] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/suboxone-detox-patient-19
+                - generic [ref=e960]:
+                  - generic [ref=e961]: 
+                  - text: "2021"
+                - generic [ref=e963]: I am so glad I did this I am so glad I did this, a 66 year old Suboxone user. – Suboxone, 2016
+              - generic [ref=e967]:
+                - heading "Oxycodone and Tramadol Detox" [level=4] [ref=e968]:
+                  - link "Oxycodone and Tramadol Detox" [ref=e969] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-and-tramadol-detox-patient
+                - generic [ref=e971]:
+                  - generic [ref=e972]: 
+                  - text: "2021"
+                - generic [ref=e974]: The most comfortable detox I had the bedside version which has been the most comfortable detox I have experience; I never suffered. – Oxycodone, Tramadol, ...
+              - generic [ref=e978]:
+                - heading "Rapid Detox" [level=4] [ref=e979]:
+                  - link "Rapid Detox" [ref=e980] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/rapid-detox-patient-15
+                - generic [ref=e982]:
+                  - generic [ref=e983]: 
+                  - text: "2021"
+                - generic [ref=e985]: Changed my life forever The most amazing people I’ve ever had the privilege to spend time with, changed my life forever in the most positive ...
+              - generic [ref=e989]:
+                - heading "Rapid Detox" [level=4] [ref=e990]:
+                  - link "Rapid Detox" [ref=e991] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/rapid-detox-patient-66
+                - generic [ref=e993]:
+                  - generic [ref=e994]: 
+                  - text: "2021"
+                - generic [ref=e996]: This is the safest and greatest place to choose. Thank you so much for this opportunity. I feel better I came here. It was so ...
+              - generic [ref=e1000]:
+                - heading "Oxycodone Detox" [level=4] [ref=e1001]:
+                  - link "Oxycodone Detox" [ref=e1002] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-detox-patient-18
+                - generic [ref=e1004]:
+                  - generic [ref=e1005]: 
+                  - text: "2021"
+                - generic [ref=e1007]: This program is truly one of a kind This program is truly one of a kind. I never felt like I had a legitimate starting ...
+              - generic [ref=e1011]:
+                - heading "Oxycontin Detox" [level=4] [ref=e1012]:
+                  - link "Oxycontin Detox" [ref=e1013] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-detox-patient-3
+                - generic [ref=e1015]:
+                  - generic [ref=e1016]: 
+                  - text: "2021"
+                - generic [ref=e1018]: Oxycontin Testimonial Finding a new you through gentle guiding care. A staff that is truly most dedicated to how your recovery goes in every respect. ...
+              - generic [ref=e1022]:
+                - heading "Vicodin Detox" [level=4] [ref=e1023]:
+                  - link "Vicodin Detox" [ref=e1024] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/vicodin-detox-patient-7
+                - generic [ref=e1026]:
+                  - generic [ref=e1027]: 
+                  - text: "2021"
+                - generic [ref=e1029]: Vicodin Addiction Testimonial How can I thank you ALL for your great care, amazing attention and kindness? I feel great and everybody notices how much ...
+              - generic [ref=e1033]:
+                - heading "Oxycontin Detox" [level=4] [ref=e1034]:
+                  - link "Oxycontin Detox" [ref=e1035] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-detox-patient-28
+                - generic [ref=e1037]:
+                  - generic [ref=e1038]: 
+                  - text: "2021"
+                - generic [ref=e1040]: OxyContin Testimonial It would be tragic for anyone that needed your service, not to chose it. I am convinced that Domus continues to look for ...
+              - generic [ref=e1044]:
+                - heading "Norco Detox" [level=4] [ref=e1045]:
+                  - link "Norco Detox" [ref=e1046] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/norco-detox-patient-15
+                - generic [ref=e1048]:
+                  - generic [ref=e1049]: 
+                  - text: "2021"
+                - generic [ref=e1051]: Atmosphere and Staff are a Silver Lining I wasn’t ready for the change, I was forced into it by legal issues. However the atmosphere and ...
+              - generic [ref=e1055]:
+                - heading "Norco Detox" [level=4] [ref=e1056]:
+                  - link "Norco Detox" [ref=e1057] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/norco-detox-patient-6
+                - generic [ref=e1059]:
+                  - generic [ref=e1060]: 
+                  - text: "2021"
+                - generic [ref=e1062]: Norco Testimonial The negative comments I read on the web almost made me decide against their method and Detox; until I saw the entire procedure ...
+              - generic [ref=e1066]:
+                - heading "Oxycontin, Roxycodone and Heroin Detox Patient" [level=4] [ref=e1067]:
+                  - link "Oxycontin, Roxycodone and Heroin Detox Patient" [ref=e1068] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-roxycodone-and-heroin-detox-patient
+                - generic [ref=e1070]:
+                  - generic [ref=e1071]: 
+                  - text: "2021"
+                - generic [ref=e1073]: WOULD HIGHLY RECOMMEND THIS TO ANYONE WHO IS STRUGGLING WITH OPIATE ADDICTION It works! Its Easy! The environment is excellent! – OxyContin, Roxycodone, Heroin, 2014
+              - generic [ref=e1077]:
+                - heading "Norco Detox" [level=4] [ref=e1078]:
+                  - link "Norco Detox" [ref=e1079] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/norco-detox-patient-10
+                - generic [ref=e1081]:
+                  - generic [ref=e1082]: 
+                  - text: "2021"
+                - generic [ref=e1084]: WAISMANN INSTITUTE HIGHLY RECOMMEND THIS PARTICULAR PLACE “I would very highly recommend this particular place. I did expect the rapid detox treatment, but Dr. Lowenstein ...
+              - generic [ref=e1088]:
+                - heading "Percocet Detox" [level=4] [ref=e1089]:
+                  - link "Percocet Detox" [ref=e1090] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/percocet-detox-patient-4
+                - generic [ref=e1092]:
+                  - generic [ref=e1093]: 
+                  - text: "2021"
+                - generic [ref=e1095]: Percocet Testimonial I am a 40 yr old Registered Nurse that was told I would never work again and never be able to stop taking ...
+              - generic [ref=e1099]:
+                - heading "Norco Detox" [level=4] [ref=e1100]:
+                  - link "Norco Detox" [ref=e1101] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/norco-detox-patient-7
+                - generic [ref=e1103]:
+                  - generic [ref=e1104]: 
+                  - text: "2021"
+                - generic [ref=e1106]: Norco Testimonial The negative comments on the web almost made me decide against this method of detox until I saw this entire procedure on T.V. ...
+              - generic [ref=e1110]:
+                - heading "Suboxone Detox" [level=4] [ref=e1111]:
+                  - link "Suboxone Detox" [ref=e1112] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/suboxone-detox-patient-15
+                - generic [ref=e1114]:
+                  - generic [ref=e1115]: 
+                  - text: "2021"
+                - generic [ref=e1117]: The Waismann Method and Domus Retreat saved my life! The staff treat you like family and are always there to help you live and experience ...
+              - generic [ref=e1121]:
+                - heading "Rapid Detox" [level=4] [ref=e1122]:
+                  - link "Rapid Detox" [ref=e1123] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/rapid-detox-patient-37
+                - generic [ref=e1125]:
+                  - generic [ref=e1126]: 
+                  - text: "2021"
+                - generic [ref=e1128]: Imagine concentrating the worst parts of your drug withdrawal into a day Imagine concentrating the worst parts of your drug withdrawal into a day. Now ...
+              - generic [ref=e1132]:
+                - heading "Rapid Detox" [level=4] [ref=e1133]:
+                  - link "Rapid Detox" [ref=e1134] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/rapid-detox-patient-63
+                - generic [ref=e1136]:
+                  - generic [ref=e1137]: 
+                  - text: "2021"
+                - generic [ref=e1139]: Thank you so much for this opportunity. “A 60 year-old, white-collar professional who originally used opiates for an injury. The staff at every stage was ...
+              - generic [ref=e1143]:
+                - heading "Norco and Oxycodone Detox" [level=4] [ref=e1144]:
+                  - link "Norco and Oxycodone Detox" [ref=e1145] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/norco-and-oxycodone-detox-patient-2
+                - generic [ref=e1147]:
+                  - generic [ref=e1148]: 
+                  - text: "2021"
+                - generic [ref=e1150]: The Domus Staff did everything you could ask for The Domus staff did everything you could ask for during the most difficult and physically gulling ...
+              - generic [ref=e1154]:
+                - heading "Rapid Detox" [level=4] [ref=e1155]:
+                  - link "Rapid Detox" [ref=e1156] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/rapid-detox-patient-34
+                - generic [ref=e1158]:
+                  - generic [ref=e1159]: 
+                  - text: "2021"
+                - generic [ref=e1161]: Truly amazing the work they do here This program is above and beyond any treatment program for addiction I have encountered before. Truly amazing the ...
+              - generic [ref=e1165]:
+                - heading "Oxycontin Detox" [level=4] [ref=e1166]:
+                  - link "Oxycontin Detox" [ref=e1167] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-detox-patient-36
+                - generic [ref=e1169]:
+                  - generic [ref=e1170]: 
+                  - text: "2021"
+                - generic [ref=e1172]: TREATMENT TOLERABLE AND A GREAT PLACE TO RESET YOUR LIFE Nice Place to have no responsibilities and someone to tend to you. – OxyContin Patient, ...
+              - generic [ref=e1176]:
+                - heading "Oxycodone Detox" [level=4] [ref=e1177]:
+                  - link "Oxycodone Detox" [ref=e1178] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-patient
+                - generic [ref=e1180]:
+                  - generic [ref=e1181]: 
+                  - text: "2021"
+                - generic [ref=e1183]: “If you’re looking for a place to go to stop opiates, there is only one place in this world and it is the waismann method.” ...
+              - generic [ref=e1187]:
+                - heading "Hydrocodone Detox" [level=4] [ref=e1188]:
+                  - link "Hydrocodone Detox" [ref=e1189] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/hydrocodone-detox-patient-19
+                - generic [ref=e1191]:
+                  - generic [ref=e1192]: 
+                  - text: "2021"
+                - generic [ref=e1194]: AS A FIRST TIME DETOX PATIENT I HAD ANXIETY A WEEK BEFORE THE WAISMANN PROGRAM From my intake to the procedure at the hospital and ...
+              - generic [ref=e1198]:
+                - heading "Vicodin Detox" [level=4] [ref=e1199]:
+                  - link "Vicodin Detox" [ref=e1200] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/vicodin-detox-patient-3
+                - generic [ref=e1202]:
+                  - generic [ref=e1203]: 
+                  - text: "2021"
+                - generic [ref=e1205]: Vicodin Testimonial Their care is genuine. Thank you from the bottom of my heart. – Detox Patient, 2009
+              - generic [ref=e1209]:
+                - heading "Rapid Detox" [level=4] [ref=e1210]:
+                  - link "Rapid Detox" [ref=e1211] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/rapid-detox-patient-40
+                - generic [ref=e1213]:
+                  - generic [ref=e1214]: 
+                  - text: "2021"
+                - generic [ref=e1216]: I FINALLY got my life back… Researched the treatment/detoxification process on Wednesday, booked my appointment on Friday, and I can 100% without a doubt confidently ...
+              - generic [ref=e1220]:
+                - heading "Codeine Detox" [level=4] [ref=e1221]:
+                  - link "Codeine Detox" [ref=e1222] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/codeine-detox-patient-3
+                - generic [ref=e1224]:
+                  - generic [ref=e1225]: 
+                  - text: "2021"
+                - generic [ref=e1227]: My husband and I are very impressed with the professionalism Dear Clare, I wanted to take the time to thank you. It was certainly appreciated. ...
+              - generic [ref=e1231]:
+                - heading "Methadone Detox" [level=4] [ref=e1232]:
+                  - link "Methadone Detox" [ref=e1233] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/methadone-detox-patient
+                - generic [ref=e1235]:
+                  - generic [ref=e1236]: 
+                  - text: "2021"
+                - generic [ref=e1238]: I’ve never ever thought that I can feel this good and functional without Methadone. This was the best experience of my life. Thank God for ...
+              - generic [ref=e1242]:
+                - heading "Vicodin Detox" [level=4] [ref=e1243]:
+                  - link "Vicodin Detox" [ref=e1244] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/vicodin-detox-patient
+                - generic [ref=e1246]:
+                  - generic [ref=e1247]: 
+                  - text: "2021"
+                - generic [ref=e1249]: My deepest gratitude and appreciation This letter comes to you with my deepest gratitude and appreciation. You gave me my life back and words cannot ...
+              - generic [ref=e1253]:
+                - heading "Oxycontin and Roxicodone Detox" [level=4] [ref=e1254]:
+                  - link "Oxycontin and Roxicodone Detox" [ref=e1255] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-and-roxicodone-detox-patient-2
+                - generic [ref=e1257]:
+                  - generic [ref=e1258]: 
+                  - text: "2021"
+                - generic [ref=e1260]: Pretty amazing When every step of your journey from darkness and sadness to light and happiness exceeds your every expectation. 90 minutes to rid your ...
+              - generic [ref=e1264]:
+                - heading "Heroin Detox" [level=4] [ref=e1265]:
+                  - link "Heroin Detox" [ref=e1266] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/heroin-detox-patient-2
+                - generic [ref=e1268]:
+                  - generic [ref=e1269]: 
+                  - text: "2021"
+                - generic [ref=e1271]: Waismann Method, Just a note to thank you all for the wounderful work you do. My son is now almost 4 years clean from heroin, ...
+              - generic [ref=e1275]:
+                - heading "Norco Detox" [level=4] [ref=e1276]:
+                  - link "Norco Detox" [ref=e1277] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/norco-detox-patient-2
+                - generic [ref=e1279]:
+                  - generic [ref=e1280]: 
+                  - text: "2021"
+                - generic [ref=e1282]: Norco Detox Testimonial Thank you from the bottom of my heart for everything you are doing for me. Love,
+              - generic [ref=e1286]:
+                - heading "Oxycontin Detox" [level=4] [ref=e1287]:
+                  - link "Oxycontin Detox" [ref=e1288] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-detox-patient-30
+                - generic [ref=e1290]:
+                  - generic [ref=e1291]: 
+                  - text: "2021"
+                - generic [ref=e1293]: OxyContin Testimonial If you are serious about stopping the opiates. This is the only way and the best way. It’s well worth the money. – ...
+              - generic [ref=e1297]:
+                - heading "Codeine Detox" [level=4] [ref=e1298]:
+                  - link "Codeine Detox" [ref=e1299] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/codeine-detox-patient
+                - generic [ref=e1301]:
+                  - generic [ref=e1302]: 
+                  - text: "2021"
+                - generic [ref=e1304]: I feel wonderful for the most part, and wanted to thank you Deb and Clare, I came back to work today after taking last week ...
+              - generic [ref=e1308]:
+                - heading "Heroin Detox" [level=4] [ref=e1309]:
+                  - link "Heroin Detox" [ref=e1310] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/heroin-detox-patient-17
+                - generic [ref=e1312]:
+                  - generic [ref=e1313]: 
+                  - text: "2021"
+                - generic [ref=e1315]: Truly the best way to get clean The at will environment; plus the extremely caring and nonjudgmental staff gave me the space to save my life. ...
+              - generic [ref=e1319]:
+                - heading "Roxicodone and Norco Detox" [level=4] [ref=e1320]:
+                  - link "Roxicodone and Norco Detox" [ref=e1321] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/roxicodone-and-norco-detox-patient
+                - generic [ref=e1323]:
+                  - generic [ref=e1324]: 
+                  - text: "2021"
+                - generic [ref=e1326]: Very comfortable, relaxing environment “Very comfortable, relaxing environment. Someone always there to talk with. No judgement. Staff very positive, encouraging and caring.” – Roxicodone, Norco, ...
+              - generic [ref=e1330]:
+                - heading "Methadone Detox" [level=4] [ref=e1331]:
+                  - link "Methadone Detox" [ref=e1332] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/methadone-detox-patient-15
+                - generic [ref=e1334]:
+                  - generic [ref=e1335]: 
+                  - text: "2021"
+                - generic [ref=e1337]: TRUST THESE PEOPLE They will change your life completely. Give them a week, and you’ll live strong. Perhaps the most memorable, delightful healing, peaceful experience ...
+              - generic [ref=e1341]:
+                - heading "Oxycontin Detox" [level=4] [ref=e1342]:
+                  - link "Oxycontin Detox" [ref=e1343] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-detox-patient-38
+                - generic [ref=e1345]:
+                  - generic [ref=e1346]: 
+                  - text: "2021"
+                - generic [ref=e1348]: Paradise Domus recovery house is paradise! – Oxycontin, 2016
+              - generic [ref=e1352]:
+                - heading "OxyContin Detox" [level=4] [ref=e1353]:
+                  - link "OxyContin Detox" [ref=e1354] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-detox-patient-23
+                - generic [ref=e1356]:
+                  - generic [ref=e1357]: 
+                  - text: "2021"
+                - generic [ref=e1359]: OxyContin Testimonial This is a life saving experience. Now I can live life with a smile and be happy!!!! – California Detox Patient, 2010
+              - generic [ref=e1363]:
+                - heading "Oxycontin Detox" [level=4] [ref=e1364]:
+                  - link "Oxycontin Detox" [ref=e1365] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycontin-detox-patient-17
+                - generic [ref=e1367]:
+                  - generic [ref=e1368]: 
+                  - text: "2021"
+                - generic [ref=e1370]: Oxycontin Testimonial Put your past behind you. The program works. – Vermont Detox Patient, 2009
+              - generic [ref=e1374]:
+                - heading "Hydrocodone Detox" [level=4] [ref=e1375]:
+                  - link "Hydrocodone Detox" [ref=e1376] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/hydrocodone-detox-patient-7
+                - generic [ref=e1378]:
+                  - generic [ref=e1379]: 
+                  - text: "2021"
+                - generic [ref=e1381]: Hydrocodone Testimonial This program exceeded my expectations. All people were well trained and excellent professionals. Expect full recovery due to program and treatment. – Detox ...
+              - generic [ref=e1385]:
+                - heading "Oxycodone and Oxycontin Detox" [level=4] [ref=e1386]:
+                  - link "Oxycodone and Oxycontin Detox" [ref=e1387] [cursor=pointer]:
+                    - /url: https://www.opiates.com/reviews-testimonials/oxycodone-and-oxycontin-detox-patient-3
+                - generic [ref=e1389]:
+                  - generic [ref=e1390]: 
+                  - text: "2021"
+                - generic [ref=e1392]: If you want off anything you can accomplish that here Not for the faint of heart, day one is difficult but we weren’t getting off ...
+      - link "Read More" [ref=e1396] [cursor=pointer]:
+        - /url: https://www.opiates.com/waismann-method-reviews-testimonials
+        - generic [ref=e1398]: Read More
+    - generic [ref=e1402]:
+      - 'heading "Exploring Your Options: Medical Opioid Detoxification" [level=2] [ref=e1406]':
+        - generic [ref=e1407]: "Exploring Your Options: Medical Opioid Detoxification"
+      - generic [ref=e1411]:
+        - paragraph [ref=e1412]: Opioid dependence is a complex medical condition that demands more than a standard, one-size-fits-all approach. It requires a deeply personalized, medically guided strategy that prioritizes safety, efficacy, and patient dignity. That’s why understanding how medical opioid detoxification should be approached is critical for both individuals and healthcare professionals.
+        - paragraph [ref=e1413]:
+          - text: At
+          - link "Waismann Method" [ref=e1415] [cursor=pointer]:
+            - /url: https://www.opiates.com/waismann
+          - text: ", we’ve spent nearly three decades educating the public and medical community about effective and responsible opioid detox protocols. Our goal is to raise awareness about the essential elements of safe detoxification, what works, what doesn’t, and why proper medical care is non-negotiable."
+      - generic [ref=e1418]:
+        - 'button "Rapid Opiate Detox Under Sedation: What It Should Look Like" [ref=e1420] [cursor=pointer]':
+          - generic [ref=e1421]:
+            - generic [ref=e1423]: 
+            - text: 
+          - text: "Rapid Opiate Detox Under Sedation: What It Should Look Like"
+        - button "Medically Assisted Opioid Detox Without Anesthesia" [ref=e1425] [cursor=pointer]:
+          - generic [ref=e1426]:
+            - generic [ref=e1428]: 
+            - text: 
+          - text: Medically Assisted Opioid Detox Without Anesthesia
+    - generic [ref=e1436]:
+      - paragraph [ref=e1439]:
+        - text: In the evolving landscape of
+        - link "opioid use disorder (OUD)" [ref=e1440] [cursor=pointer]:
+          - /url: https://my.clevelandclinic.org/health/diseases/24257-opioid-use-disorder-oud
+        - text: ", the Waismann Method remains one of the most trusted names in the world not for offering direct treatment today, but for setting the gold standard in how medical opioid detoxification should be approached. With nearly three decades of experience, our focus is now dedicated to education, awareness, and professional guidance rooted in clinical expertise and physiological science."
+      - generic [ref=e1443]:
+        - 'button "The Science of Safe Opioid Detox: Raising the Bar for Global Standards" [ref=e1445] [cursor=pointer]':
+          - generic [ref=e1446]:
+            - generic [ref=e1448]: 
+            - text: 
+          - text: "The Science of Safe Opioid Detox: Raising the Bar for Global Standards"
+        - 'button "Personalized Protocols: A Physiological Approach, Not a One-Size-Fits-All Model" [ref=e1450] [cursor=pointer]':
+          - generic [ref=e1451]:
+            - generic [ref=e1453]: 
+            - text: 
+          - text: "Personalized Protocols: A Physiological Approach, Not a One-Size-Fits-All Model"
+        - 'button "A Legacy of Clinical Excellence: Leadership that Set the National Standard" [ref=e1455] [cursor=pointer]':
+          - generic [ref=e1456]:
+            - generic [ref=e1458]: 
+            - text: 
+          - text: "A Legacy of Clinical Excellence: Leadership that Set the National Standard"
+        - button "Vivitrol, Naltrexone, and Post-Detox Neurochemical Reset" [ref=e1460] [cursor=pointer]:
+          - generic [ref=e1461]:
+            - generic [ref=e1463]: 
+            - text: 
+          - text: Vivitrol, Naltrexone, and Post-Detox Neurochemical Reset
+        - button "Founded on Compassion, Built on Science" [ref=e1465] [cursor=pointer]:
+          - generic [ref=e1466]:
+            - generic [ref=e1468]: 
+            - text: 
+          - text: Founded on Compassion, Built on Science
+    - generic [ref=e1478]:
+      - paragraph [ref=e1479]:
+        - text: Before choosing a detox provider, it is critical to understand what
+        - strong [ref=e1480]: real medical opioid detox should involve
+        - text: ". Waismann Method® offers trusted insights and training on:"
+      - list [ref=e1481]:
+        - listitem [ref=e1482]:
+          - paragraph [ref=e1483]: Rapid detox protocols under sedation
+        - listitem [ref=e1484]:
+          - paragraph [ref=e1485]: Medically assisted detox without anesthesia
+        - listitem [ref=e1486]:
+          - paragraph [ref=e1487]: Craving control strategies
+        - listitem [ref=e1488]:
+          - paragraph [ref=e1489]: The role of aftercare and emotional stabilization
+        - listitem [ref=e1490]:
+          - paragraph [ref=e1491]: Red flags to avoid in unsafe or unethical programs
+      - paragraph [ref=e1492]: This knowledge saves lives. Whether you’re a professional, policymaker, or concerned loved one, our resources are designed to inform and empower.
+  - contentinfo [ref=e1493]:
+    - generic [ref=e1496]:
+      - link [ref=e1500] [cursor=pointer]:
+        - /url: https://www.bbb.org/us/ca/beverly-hills/profile/drug-addiction-treatment/waismann-method-medical-group-1216-13032890#bbbseal
+      - link [ref=e1504] [cursor=pointer]:
+        - /url: https://www.naadac.org/
+      - link [ref=e1511] [cursor=pointer]:
+        - /url: https://compliancy-group.com/hipaa-compliance-verification/
+    - generic [ref=e1515]:
+      - generic [ref=e1519]:
+        - paragraph [ref=e1522]
+        - list [ref=e1528]:
+          - listitem [ref=e1529]:
+            - link "1-800-423-2482" [ref=e1530] [cursor=pointer]:
+              - /url: tel:1-800-423-2482
+              - generic [ref=e1531]: 1-800-423-2482
+        - list [ref=e1534]:
+          - listitem [ref=e1535]:
+            - link "Facebook" [ref=e1536] [cursor=pointer]:
+              - /url: https://www.facebook.com/waismannmethod
+              - generic [ref=e1537]: Facebook
+              - generic [ref=e1538]: 
+          - listitem [ref=e1539]:
+            - link "Twitter" [ref=e1540] [cursor=pointer]:
+              - /url: https://twitter.com/opiates
+              - generic [ref=e1541]: Twitter
+              - generic [ref=e1542]: 
+          - listitem [ref=e1543]:
+            - link "Instagram" [ref=e1544] [cursor=pointer]:
+              - /url: https://www.instagram.com/rapidopiatedetox/%20
+              - generic [ref=e1545]: Instagram
+              - generic [ref=e1546]: 
+          - listitem [ref=e1547]:
+            - link "Youtube" [ref=e1548] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/OpiatesWaismannMethod%20
+              - generic [ref=e1549]: Youtube
+              - generic [ref=e1550]: 
+          - listitem [ref=e1551]:
+            - link "Linkedin" [ref=e1552] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/2400244/admin/%20
+              - generic [ref=e1553]: Linkedin
+              - generic [ref=e1554]: 
+      - generic [ref=e1556]: Copyright © 2026 Anesthesia Assisted Medical Opiate Detoxification, Inc. All Rights Reserved.
+      - paragraph [ref=e1559]:
+        - link "Terms of Service" [ref=e1560] [cursor=pointer]:
+          - /url: https://www.opiates.com/legal
+        - text: "|"
+        - link "Privacy Policy" [ref=e1561] [cursor=pointer]:
+          - /url: https://www.opiates.com/privacy-policy
+        - text: "|"
+        - link "Accessibility Statement" [ref=e1562] [cursor=pointer]:
+          - /url: https://www.opiates.com/accessibility-statement
+        - text: "|"
+        - link "Sitemap" [ref=e1563] [cursor=pointer]:
+          - /url: https://www.opiates.com/sitemap
+        - text: "|"
+        - link "Consent Preferences" [ref=e1564] [cursor=pointer]:
+          - /url: "#"
+        - text: "| Mailing Address: 311 N. Robertson Blvd. Beverly Hills, CA 90211"
+      - paragraph [ref=e1567]:
+        - text: "DISCLAIMER: The text presented on this page is not a substitute for professional medical advice. It is for your information only and may not represent your true individual medical situation. Do not hesitate to consult your healthcare provider if you have any questions or concerns. Do not use this information to diagnose or treat a health problem or disease without consulting a qualified healthcare professional. Be advised that"
+        - link "Opiates.com" [ref=e1568] [cursor=pointer]:
+          - /url: https://url.emailprotection.link/?b9ud27HcgvPcOZldnYcj7cf64jrOquCVHEG1oyfWBW4ETHSngJFuW5DIUz_BHbS50Gw2OX55J4jPtVBBYfymgQQ~~
+        - text: articles are derived from various sources and may not reflect your own country’s regulations.
+    - text: 

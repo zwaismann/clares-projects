@@ -1,0 +1,500 @@
+- generic [active] [ref=e1]:
+  - region "Quick Accessibility Options":
+    - button "Skip to main content" [ref=e2] [cursor=pointer]:
+      - generic [ref=e3]:
+        - img [ref=e5]
+        - generic [ref=e9]: Skip to main content
+      - img [ref=e11]
+    - button "Enable accessibility for low vision" [ref=e16] [cursor=pointer]:
+      - generic [ref=e17]:
+        - img [ref=e19]
+        - generic [ref=e26]: Enable accessibility for low vision
+      - img [ref=e28]
+    - button "Open the accessibility menu" [ref=e33] [cursor=pointer]:
+      - generic [ref=e34]:
+        - img [ref=e36]
+        - generic [ref=e38]: Open the accessibility menu
+      - img [ref=e40]
+  - link "Skip to content" [ref=e45] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e46]:
+    - generic [ref=e48]:
+      - link "Waismann Method Logo" [ref=e53] [cursor=pointer]:
+        - /url: https://www.opiates.com
+        - img "Waismann Method Logo" [ref=e54]
+      - generic [ref=e56]:
+        - generic [ref=e60]:
+          - text:  
+          - link [ref=e64] [cursor=pointer]:
+            - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIyMzg5IiwidG9nZ2xlIjpmYWxzZX0%3D"
+            - generic [ref=e65]: 
+        - generic [ref=e69]:
+          - navigation "Menu" [ref=e70]:
+            - list [ref=e71]:
+              - listitem [ref=e72]:
+                - link "Waismann Method" [ref=e73] [cursor=pointer]:
+                  - /url: https://www.opiates.com/waismann
+                  - text: Waismann Method
+                  - generic [ref=e75]: 
+              - listitem [ref=e76]:
+                - link "Rapid Detox" [ref=e77] [cursor=pointer]:
+                  - /url: https://www.opiates.com/rapid-detox
+                  - text: Rapid Detox
+                  - generic [ref=e79]: 
+              - listitem [ref=e80]:
+                - generic [ref=e81]:
+                  - text: Medical Detox Options
+                  - generic [ref=e83]: 
+              - listitem [ref=e84]:
+                - generic [ref=e85]:
+                  - text: Press & Features
+                  - generic [ref=e87]: 
+              - listitem [ref=e88]:
+                - link "Contact Us" [ref=e89] [cursor=pointer]:
+                  - /url: https://www.opiates.com/contact-us
+                  - text: Contact Us
+                  - generic [ref=e91]: 
+          - text:  
+    - text:         
+  - generic [ref=e92]:
+    - heading "Rapid Detox – Educational Guide to Hospital‑Based Opioid Detox Under Sedation" [level=1] [ref=e99]
+    - generic [ref=e103]:
+      - heading "Rapid Detox – Medically Advanced Opioid Detox Under Sedation (Educational Overview)" [level=2] [ref=e106]
+      - generic [ref=e108]:
+        - paragraph [ref=e109]: Rapid detox is a medically supervised detoxification procedure designed to help individuals move through opioid withdrawal more quickly, safely, and comfortably by using carefully monitored sedation and opioid antagonists in a hospital setting. Instead of enduring days or weeks of uncontrolled withdrawal, patients historically completed the most intense phase of opioid detoxification over a much shorter period while receiving continuous medical monitoring and symptom management. [1] [2] [3]
+        - paragraph [ref=e110]:
+          - text: For nearly three decades, the Waismann Method® was widely recognized as a leading hospital-based rapid detox protocol, emphasizing safety, individualized care, and medically sound standards. The program helped thousands of people address physical opioid dependence under sedation while avoiding onesizefitsall approaches and longterm opioid maintenance.
+          - strong [ref=e111]: Today, Waismann Method® rapid detox is no longer offered as an active treatment and is presented on this page for educational and historical purposes only. No rapid detox procedures are currently performed under the Waismann name.
+          - text: "[2] [4] [5] [3]"
+        - paragraph [ref=e112]:
+          - text: Unlike traditional detox or replacement therapies, rapid detox under sedation was designed to target the
+          - strong [ref=e113]: physiological
+          - text: component of opioid dependence directly—clearing opioids from receptors, supporting neurochemical regulation, and reducing physical cravings. By compressing withdrawal into a controlled timeframe and providing intensive pre and post-detox care, these protocols aimed to help the nervous system transition more quickly toward an opioid-free state while minimizing suffering. [6] [3] [2]
+      - blockquote [ref=e116]:
+        - paragraph [ref=e117]: "Educational note: Opiates.com is an informational resource only. It does not accept patients, provide medical treatment, or endorse any current rapid detox provider. All descriptions on this page are historical and educational, not medical advice or a solicitation for treatment. [7]"
+      - link "Learn More..." [ref=e121] [cursor=pointer]:
+        - /url: ""
+        - generic [ref=e123]: Learn More...
+    - generic [ref=e130]:
+      - heading "What Is Rapid Detox?" [level=2] [ref=e133]
+      - generic [ref=e135]:
+        - paragraph [ref=e136]:
+          - text: Rapid detox (also called
+          - strong [ref=e137]: rapid opiate detox
+          - text: ", anesthesiaassisted detox, ultrarapid detox, or opioid detox under sedation) is a medical process that accelerates withdrawal by using opioid antagonists while the patient is under deep sedation or monitored anesthesia care. Antagonist medications such as naltrexone or naloxone rapidly displace opioids from brain receptors, triggering withdrawal while the patient is largely unaware of the acute phase. [3] [1] [2]"
+        - paragraph [ref=e138]: This approach was developed to help individuals who could not complete traditional detox due to severe withdrawal symptoms, intense cravings, or repeated relapse. When combined with careful predetox medical screening and several days of inpatient monitoring, rapid detox sought to provide a more humane and efficient path through the hardest part of opioid withdrawal. [1] [2] [6] [3]
+        - paragraph [ref=e139]:
+          - text: To understand where rapid detox fits within the larger treatment landscape, it is important to distinguish
+          - strong [ref=e140]: opioid dependence
+          - text: (a physiological state) from the broader concept of addiction. A detailed explanation is available in our discussion of
+          - link "opioid addiction vs dependence" [ref=e141] [cursor=pointer]:
+            - /url: https://www.opiates.com/opiates-blog/opioid-addiction-vs-dependence-symptoms-treatment
+          - text: . [5] [6]
+    - generic [ref=e145]:
+      - heading "How Rapid Detox Works in a Hospital Setting" [level=2] [ref=e148]
+      - paragraph [ref=e151]: Although specific protocols varied among physicians and eras, advanced hospital-based rapid detox programs historically followed several core phases. [2] [3]
+      - heading "1. Comprehensive Medical Evaluation" [level=3] [ref=e154]
+      - generic [ref=e156]:
+        - list [ref=e157]:
+          - listitem [ref=e158]: Detailed review of opioid history, dosage, and duration of use.
+          - listitem [ref=e159]: Assessment of cooccurring medical conditions, including cardiovascular, respiratory, hepatic, and metabolic status.
+          - listitem [ref=e160]: Diagnostic testing (e.g., ECG, laboratory panels, imaging when needed) to determine whether sedation-assisted detox is medically appropriate.[8] [1]
+        - paragraph [ref=e161]: The goal of this step was to identify risk factors early and exclude individuals for whom rapid detox would be unsafe.[9] [1]
+      - heading "2. Inpatient Pre-Detox Stabilization" [level=3] [ref=e164]
+      - generic [ref=e166]:
+        - list [ref=e167]:
+          - listitem [ref=e168]: Admission to a full-service hospital or ICU-equivalent setting for IV hydration and electrolyte optimization.
+          - listitem [ref=e169]: Regulation of blood pressure, heart rate, oxygenation, and autonomic function before sedation. [3] [9]
+          - listitem [ref=e170]: Premedication protocols to reduce vomiting, autonomic spikes, and withdrawal-related complications, which also helped lessen the need for intubation.[6] [3]
+        - paragraph [ref=e171]: This preparatory phase was a key differentiator between higher-standard programs and rushed, same-day rapid detox models.[6] [3]
+      - heading "3. Detoxification Under Sedation" [level=3] [ref=e174]
+      - generic [ref=e176]:
+        - list [ref=e177]:
+          - listitem [ref=e178]: Transfer to a closely monitored environment—often an ICU—with continuous cardiac and respiratory monitoring.[2] [3]
+          - listitem [ref=e179]: Administration of opioid antagonists under deep sedation or monitored anesthesia care to rapidly clear opioids from receptors.[1] [2]
+          - listitem [ref=e180]: Ongoing adjustments in sedation, fluids, and medications based on a patientʼs real-time vital signs and clinical response.[3]
+        - paragraph [ref=e181]: During this stage, the body moves through acute withdrawal while medical staff manage hemodynamics, oxygenation, and autonomic changes in a controlled setting.[3] [1]
+      - heading "4. Immediate Post-Procedure Monitoring" [level=3] [ref=e184]
+      - generic [ref=e186]:
+        - list [ref=e187]:
+          - listitem [ref=e188]: Gradual emergence from sedation with intensive nursing and physician oversight.
+          - listitem [ref=e189]: Management of residual withdrawal symptoms, blood pressure fluctuations, thermoregulation, and sleep disturbances.[2] [3]
+          - listitem [ref=e190]: Use of symptom-specific medications for nausea, agitation, muscle discomfort, insomnia, and anxiety as medically indicated.[3]
+        - paragraph [ref=e191]: Use of symptom-specific medications for nausea, agitation, muscle discomfort, insomnia, and anxiety as medically indicated.[6] [3]
+      - heading "5. Early Neurochemical Support and Antagonist Maintenance" [level=3] [ref=e194]
+      - generic [ref=e196]:
+        - list [ref=e197]:
+          - listitem [ref=e198]: Once medically appropriate, initiation or continuation of antagonist therapy (e.g., naltrexone or Vivitrol) to block opioids and help reduce physical cravings.[2] [3]
+          - listitem [ref=e199]: Education about dramatically reduced tolerance and the high overdose risk if prior opioid doses are resumed after detox.[9] [3]
+          - listitem [ref=e200]: Guidance on sleep, nutrition, and nervous system regulation during the first days and weeks following rapid detox.[3] [6]
+        - paragraph [ref=e201]:
+          - text: Additional educational information on rapid detox without anesthesia and related medical options is available in our resource on
+          - link "rapid detox without anesthesia" [ref=e202] [cursor=pointer]:
+            - /url: https://www.opiates.com/rapid-detox-without-anesthesia
+          - text: .[5]
+    - generic [ref=e210]:
+      - 'heading "Beyond Detox: Nervous System Regulation and Craving Reduction" [level=2] [ref=e213]'
+      - generic [ref=e215]:
+        - paragraph [ref=e216]: Opioid dependence is not just about external behavior; it is rooted in profound changes within the central nervous system. Long-term opioid use alters mu-opioid receptor function and disrupts the brainʼs ability to produce and regulate dopamine and endorphins, which can lead to persistent cravings, mood swings, and dysautonomia even after withdrawal. [1] [2] [6]
+        - paragraph [ref=e217]: "Historically, advanced rapid detox protocols aimed to correct this imbalance more directly by: [2] [3]"
+        - list [ref=e218]:
+          - listitem [ref=e219]:
+            - strong [ref=e220]: Accelerating receptor clearance
+            - text: so the nervous system could begin functioning without daily opioid stimulation sooner.
+          - listitem [ref=e221]:
+            - strong [ref=e222]: Supporting dopamine and endorphin recovery
+            - text: ", focusing on sleep quality, nutritional support, and medications that modulate autonomic function."
+          - listitem [ref=e223]:
+            - strong [ref=e224]: Reducing physical cravings
+            - text: with antagonist medications, helping people focus on rebuilding their lives instead of fighting constant urges to use. [3] [2]
+        - paragraph [ref=e225]:
+          - text: Many individuals reported that once physical dependence was resolved and cravings diminished, they could think more clearly, regulate emotions better, and participate more effectively in therapy, work, and relationships. Rapid detox was never intended as a standalone cure, but as a focused, intensive first step to correct the
+          - strong [ref=e226]: physiological
+          - text: dependency that kept them stuck. [10] [2]
+    - generic [ref=e238]:
+      - heading "Rapid Detox Safety, Risks, and Historical Lessons" [level=2] [ref=e241]
+      - generic [ref=e243]:
+        - paragraph [ref=e244]: Sedation-assisted, antagonist-driven detox is medically complex and carries specific risks that must be carefully managed. Reports of severe complications in poorly controlled settings led to increased scrutiny of “ultrarapid” detox procedures, particularly where deeper anesthesia was used without ICU-level safety protocols. [11] [9]
+        - paragraph [ref=e245]: "Historically documented risks included: [9] [1]"
+        - list [ref=e246]:
+          - listitem [ref=e247]:
+            - strong [ref=e248]: Cardiovascular stress
+            - text: – Rapid withdrawal can cause surges in catecholamines, leading to hypertension, arrhythmias, or hemodynamic instability if not properly stabilized.
+          - listitem [ref=e249]:
+            - strong [ref=e250]: Respiratory and aspiration risks
+            - text: – Vomiting under heavy sedation or general anesthesia increases the risk of aspiration and serious pulmonary complications.
+          - listitem [ref=e251]:
+            - strong [ref=e252]: Metabolic and electrolyte imbalance
+            - text: – Dehydration, sodium and potassium shifts, and underlying organ dysfunction can amplify risk during rapid physiological change.
+        - paragraph [ref=e253]: "To address these risks, higher-standard programs placed strong emphasis on: [5] [6] [3]"
+        - list [ref=e254]:
+          - listitem [ref=e255]:
+            - list [ref=e256]:
+              - listitem [ref=e257]: Thorough inpatient medical workups and stabilization before sedation.
+              - listitem [ref=e258]: Performing rapid detox only in full-service, accredited hospitals with 24/7 monitoring and ICU capability.
+              - listitem [ref=e259]: Using the least invasive effective sedation strategies and minimizing intubation whenever safely possible.
+              - listitem [ref=e260]: Providing several days of inpatient post-detox monitoring instead of discharging patients to hotels or nonmedical companions within 24 hours.
+        - paragraph [ref=e261]:
+          - text: These safety principles are outlined in more detail in our article on the
+          - link "history of rapid detox" [ref=e262] [cursor=pointer]:
+            - /url: https://www.opiates.com/opiates-blog/history-rapid-detox
+          - text: ".9"
+      - heading "Rapid Detox vs Other Opioid Detox Approaches" [level=2] [ref=e265]
+      - paragraph [ref=e268]:
+        - text: People searching for “rapid detox” often want to know how it differs from other detox and treatment models. The comparison below focuses on
+        - strong [ref=e269]: philosophy and goals
+        - text: ", not on promoting alternatives."
+      - heading "How Rapid Detox Differs in Intent" [level=2] [ref=e272]
+      - table [ref=e276]:
+        - rowgroup [ref=e277]:
+          - row "Approach Primary Goal Drug Status After Process Typical Duration Core Philosophy" [ref=e278]:
+            - columnheader "Approach" [ref=e279]:
+              - generic [ref=e281]: Approach
+            - columnheader "Primary Goal" [ref=e282]:
+              - generic [ref=e284]: Primary Goal
+            - columnheader "Drug Status After Process" [ref=e285]:
+              - generic [ref=e287]: Drug Status After Process
+            - columnheader "Typical Duration" [ref=e288]:
+              - generic [ref=e290]: Typical Duration
+            - columnheader "Core Philosophy" [ref=e291]:
+              - generic [ref=e293]: Core Philosophy
+        - rowgroup [ref=e294]:
+          - row "Rapid detox / detox under sedation Complete physical opioid detoxification with accelerated withdrawal under medical supervision Opioid-free, often with antagonist support rather than daily opioids Hours for acute phase, days for monitoring Correct physiological dependence, reduce cravings, and help the nervous system move toward opioid-free function. [3] [2]" [ref=e295]:
+            - cell "Rapid detox / detox under sedation" [ref=e296]:
+              - generic [ref=e297]: Rapid detox / detox under sedation
+            - cell "Complete physical opioid detoxification with accelerated withdrawal under medical supervision" [ref=e298]:
+              - generic [ref=e299]: Complete physical opioid detoxification with accelerated withdrawal under medical supervision
+            - cell "Opioid-free, often with antagonist support rather than daily opioids" [ref=e300]:
+              - generic [ref=e301]: Opioid-free, often with antagonist support rather than daily opioids
+            - cell "Hours for acute phase, days for monitoring" [ref=e302]:
+              - generic [ref=e303]: Hours for acute phase, days for monitoring
+            - cell "Correct physiological dependence, reduce cravings, and help the nervous system move toward opioid-free function. [3] [2]" [ref=e304]:
+              - generic [ref=e305]: Correct physiological dependence, reduce cravings, and help the nervous system move toward opioid-free function. [3] [2]
+          - row "Standard inpatient detox (non-sedation) Gradual, medically supervised withdrawal with symptomatic meds or tapers Opioid-free at discharge, sometimes transitioned to antagonists Several days to 1-2 weeks Manage withdrawal safely over a longer timeline in a monitored setting." [ref=e306]:
+            - cell "Standard inpatient detox (non-sedation)" [ref=e307]:
+              - generic [ref=e308]: Standard inpatient detox (non-sedation)
+            - cell "Gradual, medically supervised withdrawal with symptomatic meds or tapers" [ref=e309]:
+              - generic [ref=e310]: Gradual, medically supervised withdrawal with symptomatic meds or tapers
+            - cell "Opioid-free at discharge, sometimes transitioned to antagonists" [ref=e311]:
+              - generic [ref=e312]: Opioid-free at discharge, sometimes transitioned to antagonists
+            - cell "Several days to 1-2 weeks" [ref=e313]:
+              - generic [ref=e314]: Several days to 1-2 weeks
+            - cell "Manage withdrawal safely over a longer timeline in a monitored setting." [ref=e315]:
+              - generic [ref=e316]: Manage withdrawal safely over a longer timeline in a monitored setting.
+          - row "Long-term opioid maintenance (methadone, buprenorphine) Ongoing stabilization and relapse prevention using daily prescribed opioids Patient remains physiologically opioid-dependent but more stable Months to years Manage addiction as a chronic condition with maintenance medications; not a detoxification method. [6] [12]" [ref=e317]:
+            - cell "Long-term opioid maintenance (methadone, buprenorphine)" [ref=e318]:
+              - generic [ref=e319]: Long-term opioid maintenance (methadone, buprenorphine)
+            - cell "Ongoing stabilization and relapse prevention using daily prescribed opioids" [ref=e320]:
+              - generic [ref=e321]: Ongoing stabilization and relapse prevention using daily prescribed opioids
+            - cell "Patient remains physiologically opioid-dependent but more stable" [ref=e322]:
+              - generic [ref=e323]: Patient remains physiologically opioid-dependent but more stable
+            - cell "Months to years" [ref=e324]:
+              - generic [ref=e325]: Months to years
+            - cell "Manage addiction as a chronic condition with maintenance medications; not a detoxification method. [6] [12]" [ref=e326]:
+              - generic [ref=e327]: Manage addiction as a chronic condition with maintenance medications; not a detoxification method. [6] [12]
+          - row "Non-medical “cold turkey Abrupt cessation without structured medical support Opioid-free if completed, but high discomfort and relapse risk Days to a week Immediate cessation without adequate safety monitoring; often unsafe for moderate to severe dependence. [11]" [ref=e328]:
+            - cell "Non-medical “cold turkey" [ref=e329]:
+              - generic [ref=e330]: Non-medical “cold turkey
+            - cell "Abrupt cessation without structured medical support" [ref=e331]:
+              - generic [ref=e332]: Abrupt cessation without structured medical support
+            - cell "Opioid-free if completed, but high discomfort and relapse risk" [ref=e333]:
+              - generic [ref=e334]: Opioid-free if completed, but high discomfort and relapse risk
+            - cell "Days to a week" [ref=e335]:
+              - generic [ref=e336]: Days to a week
+            - cell "Immediate cessation without adequate safety monitoring; often unsafe for moderate to severe dependence. [11]" [ref=e337]:
+              - generic [ref=e338]: Immediate cessation without adequate safety monitoring; often unsafe for moderate to severe dependence. [11]
+      - paragraph [ref=e341]:
+        - text: This page is for individuals who resonate with the
+        - strong [ref=e342]: rapid detox philosophy
+        - text: ": a time-limited, hospital-based medical effort to break physical opioid dependence, reduce cravings, and allow the brain and body to begin functioning without daily opioids. [2] [3]"
+    - generic [ref=e346]:
+      - paragraph [ref=e349]: Addiction, Recovery, and the Question of Permanence
+      - paragraph [ref=e352]: Many people are told that addiction is a permanent, unchangeable condition. Yet the experience of countless individuals suggests a more nuanced reality once physical dependence and neurochemical dysregulation are corrected. When the body is stabilized, cravings are reduced, and the nervous system is given time and support to recalibrate, some people go on to live full lives without ongoing maintenance medications or endless cycles of treatment. [10] [2]
+      - generic [ref=e354]:
+        - paragraph [ref=e355]: "Rapid detox was historically chosen by individuals who believed that: [6] [2]"
+        - list [ref=e356]:
+          - listitem [ref=e357]: Their nervous system could heal.
+          - listitem [ref=e358]: Physical opioid dependence did not have to define them for life.
+          - listitem [ref=e359]: A decisive, medically advanced intervention could help them step out of survival mode and into sustained recovery.
+      - paragraph [ref=e362]:
+        - text: This perspective does not minimize the seriousness of opioid dependence or the reality of relapse risk. Instead, it recognizes addiction as a condition that can be aggressively addressed at the
+        - strong [ref=e363]: physiological
+        - text: level, then supported with education, healthier coping skills, and life restructuring—not an “eternal revolving door” of treatment. [2] [6]
+    - generic [ref=e367]:
+      - heading "Rapid Detox FAQs (Educational Only)" [level=3] [ref=e370]
+      - generic [ref=e374]:
+        - tablist [ref=e375]:
+          - tab "What Is Rapid Detox?" [ref=e376]:
+            - generic [ref=e377]: 
+            - text: What Is Rapid Detox?
+        - tablist [ref=e378]:
+          - tab "How Does Rapid Detox Work?" [ref=e379]:
+            - generic [ref=e380]: 
+            - text: How Does Rapid Detox Work?
+        - tablist [ref=e381]:
+          - tab "Is Rapid Detox Safe?" [ref=e382]:
+            - generic [ref=e383]: 
+            - text: Is Rapid Detox Safe?
+        - tablist [ref=e384]:
+          - tab "Does Rapid Detox use general anesthesia?" [ref=e385]:
+            - generic [ref=e386]: 
+            - text: Does Rapid Detox use general anesthesia?
+        - tablist [ref=e387]:
+          - tab "How long does rapid detox take?" [ref=e388]:
+            - generic [ref=e389]: 
+            - text: How long does rapid detox take?
+        - tablist [ref=e390]:
+          - tab "Does rapid detox reset the brain to normal?" [ref=e391]:
+            - generic [ref=e392]: 
+            - text: Does rapid detox reset the brain to normal?
+        - tablist [ref=e393]:
+          - tab "Is rapid detox a cure for addiction?" [ref=e394]:
+            - generic [ref=e395]: 
+            - text: Is rapid detox a cure for addiction?
+      - generic [ref=e397]:
+        - paragraph [ref=e398]:
+          - text: The goal of this page is to provide a clear, medically grounded explanation of what rapid detox is, how hospital-based sedation-assisted protocols historically worked, and which safety standards mattered most. It is intended for patients, families, clinicians, and educators seeking accurate,
+          - strong [ref=e399]: non-promotional
+          - text: information about rapid detox—not for scheduling treatment or choosing a specific provider. [7] [6] [3]
+        - paragraph [ref=e400]:
+          - text: For additional independent, education-only perspectives, you may also review the rapid detox education resources at
+          - link "RapidDetox.com," [ref=e401] [cursor=pointer]:
+            - /url: http://RapidDetox.com
+          - text: which offer more detail on 3-day rapid detox protocols, detox under sedation, and opioid-free recovery science. [4] [2]
+        - paragraph [ref=e402]: If you or someone you care about is considering any form of opioid detoxification, including rapid detox, obtain independent medical opinions, verify hospital accreditation and physician credentials, and ask detailed questions about safety protocols, monitoring, and post-detox support before making any decision.[13] [9]
+      - heading "Sources" [level=3] [ref=e405]
+      - list [ref=e408]:
+        - listitem [ref=e409]:
+          - link "https://pubmed.ncbi.nlm.nih.gov/8911587/" [ref=e410] [cursor=pointer]:
+            - /url: https://pubmed.ncbi.nlm.nih.gov/8911587/
+        - listitem [ref=e411]:
+          - link "https://www.rapiddetox.com/rapid-detox-facts/3-day-rapid-deto/" [ref=e412] [cursor=pointer]:
+            - /url: https://www.rapiddetox.com/rapid-detox-facts/3-day-rapid-deto/
+        - listitem [ref=e413]:
+          - link "https://www.opiates.com/rapid-detox" [ref=e414] [cursor=pointer]:
+            - /url: https://www.opiates.com/rapid-detox
+        - listitem [ref=e415]:
+          - link "https://www.rapiddetox.com" [ref=e416] [cursor=pointer]:
+            - /url: https://www.rapiddetox.com
+        - listitem [ref=e417]:
+          - link "https://www.opiates.com/rapid-detox-without-anesthesia" [ref=e418] [cursor=pointer]:
+            - /url: https://www.opiates.com/rapid-detox-without-anesthesia
+        - listitem [ref=e419]:
+          - link "https://www.opiates.com/opiates-blog/history-rapid-detox" [ref=e420] [cursor=pointer]:
+            - /url: https://www.opiates.com/opiates-blog/history-rapid-detox
+        - listitem [ref=e421]:
+          - link "https://www.opiates.com" [ref=e422] [cursor=pointer]:
+            - /url: https://www.opiates.com
+        - listitem [ref=e423]:
+          - link "https://www.rapiddetox.com/drug-detox/" [ref=e424] [cursor=pointer]:
+            - /url: https://www.rapiddetox.com/drug-detox/
+        - listitem [ref=e425]:
+          - link "https://www.opiates.com/waismann-method-treatment-process" [ref=e426] [cursor=pointer]:
+            - /url: https://www.opiates.com/waismann-method-treatment-process
+        - listitem [ref=e427]:
+          - link "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6238a1.htm" [ref=e428] [cursor=pointer]:
+            - /url: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6238a1.htm
+        - listitem [ref=e429]:
+          - link "https://jamanetwork.com/journals/jama/fullarticle/201451" [ref=e430] [cursor=pointer]:
+            - /url: https://jamanetwork.com/journals/jama/fullarticle/201451
+        - listitem [ref=e431]:
+          - link "https://www.opiates.com/opiates-blog/canada-opiate-detox-information" [ref=e432] [cursor=pointer]:
+            - /url: https://www.opiates.com/opiates-blog/canada-opiate-detox-information
+        - listitem [ref=e433]:
+          - link "https://adai.uw.edu/pubs/pdf/2015MAT.pdf" [ref=e434] [cursor=pointer]:
+            - /url: https://adai.uw.edu/pubs/pdf/2015MAT.pdf
+        - listitem [ref=e435]:
+          - link "https://www.rapiddetox.com/rapid-detox-faq/" [ref=e436] [cursor=pointer]:
+            - /url: https://www.rapiddetox.com/rapid-detox-faq/
+        - listitem [ref=e437]:
+          - link "https://www.samhsa.gov/find-help/helplines/national-helpline" [ref=e438] [cursor=pointer]:
+            - /url: https://www.samhsa.gov/find-help/helplines/national-helpline
+        - listitem [ref=e439]:
+          - link "https://www.opiates.com/category/rapid-detox/page/2" [ref=e440] [cursor=pointer]:
+            - /url: https://www.opiates.com/category/rapid-detox/page/2
+        - listitem [ref=e441]:
+          - link "https://www.opiates.com/opiates-blog/pennsylvania-detox" [ref=e442] [cursor=pointer]:
+            - /url: https://www.opiates.com/opiates-blog/pennsylvania-detox
+        - listitem [ref=e443]:
+          - link "https://www.opiates.com/podcast/rapid-detox-unveiled-success-behind-waismann-method" [ref=e444] [cursor=pointer]:
+            - /url: https://www.opiates.com/podcast/rapid-detox-unveiled-success-behind-waismann-method
+    - link "Recovery Is Possible" [ref=e454] [cursor=pointer]:
+      - /url: https://www.opiates.com/contact-us/
+      - generic [ref=e456]: Recovery Is Possible
+    - generic [ref=e466]:
+      - region "Slides" [ref=e472]:
+        - generic [ref=e473]:
+          - group [ref=e474]:
+            - generic [ref=e475]:
+              - generic [ref=e477]: "\"Waismann Method was like no other program out there. If you're trying to stop opiod addiction and you need to get back to life as soon as possible this is the way to go. I'm not going to sugar coat it and say it's easy, but it is definitely easier than going through withdrawals or posibly an overdose. If you're serious about being done with your addiction waismann method is truly the best. From the start they treat you with the outmost respect and professionalism. I recommend this place 100%\""
+              - generic [ref=e479]: "- Former Patient"
+          - group [ref=e480]:
+            - generic [ref=e481]:
+              - generic [ref=e483]: "\"I have a very loud voice & I am going to shout to the people who are dealing with this beast but just can’t get through the withdrawal nor the beast of burden called TREATMENT CENTERS, let your ears hear me !!!\""
+              - generic [ref=e485]: "- Former Patient"
+          - group [ref=e486]:
+            - generic [ref=e487]:
+              - generic [ref=e489]: "\"This place gave me my life back!! Methadone takes over 30 days to get out of your system and they got it out in one day!! The people there are literally miracle workers!! Go Here and keep up with your vividtrol and you can be free and clean!! I would give this place 10 stars if I could \""
+              - generic [ref=e491]: "- Former Patient"
+          - group [ref=e492]:
+            - generic [ref=e493]:
+              - generic [ref=e495]: "\"A dear friend underwent rapid detox at the Waismann Method and all we can say is “THANK YOU”. My friend had (for years) been in a seemingly endless cycle of rehab and relapse. Even at some of the top rehabs, he still seemed to find his way back to opiates. I’m so grateful to say that it’s been almost a full year since his treatment at the Waismann Method and he is better than ever! He is finally himself again. Thank you to the caring, knowledgeable, warm and patient staff that supported and assisted my friend from start to finish! It was a blessing that we heard about the Waismann Method - our only wish is that we tried it sooner!\""
+              - generic [ref=e497]: "- Friend of Former Patient"
+          - group [ref=e498]:
+            - generic [ref=e499]:
+              - generic [ref=e501]: "\"I have heard first hand from people who have gone through the Waismann rapid detox and they said it changed their life. They no longer felt like drug addicts and were treated like patients. Thank you Dr. Lowenstein and staff for all you do!\""
+              - generic [ref=e503]: "- Former Patient"
+          - group [ref=e504]:
+            - generic [ref=e505]:
+              - generic [ref=e507]: "\"I'm so grateful that I came across the Waismann Institute. It saved a family members life and I will forever be thankful to all the hard work and dedication of the entire staff there! Well worth EVERY penny! The therapist at the Waismann Method was amazing. The breakthroughs that were made were tremendous. The staff encourages you along the way and were incredibly patient with our family and all the questions we had. They really care about the individual seeking treatment because they were always there - every step of the way! Not only is my family member sober, but he is happier than I have ever seen him in years. In all honesty, he is living the life he has always deserved. Thank you Waismann for giving him back a life worth living!\""
+              - generic [ref=e509]: "- Family of Former Patient"
+      - link "Read More Reviews" [ref=e517] [cursor=pointer]:
+        - /url: https://www.opiates.com/waismann-method-reviews-testimonials
+        - generic [ref=e519]: Read More Reviews
+    - generic [ref=e523]:
+      - paragraph [ref=e526]:
+        - link "Discover the Latest Blogs on Addiction and Mental Health" [ref=e527] [cursor=pointer]:
+          - /url: https://www.opiates.com/blog
+      - list [ref=e530]:
+        - listitem [ref=e531]:
+          - link "chronic pain patient experiencing discomfort while managing opioid medication" [ref=e532] [cursor=pointer]:
+            - /url: https://www.opiates.com/opiates-blog/opiates-for-chronic-pain
+            - img "chronic pain patient experiencing discomfort while managing opioid medication" [ref=e534]
+          - generic [ref=e535]:
+            - 'heading "Opiates for Chronic Pain: What Patients and Families Need to Understand" [level=3] [ref=e536]':
+              - 'link "Opiates for Chronic Pain: What Patients and Families Need to Understand" [ref=e537] [cursor=pointer]':
+                - /url: https://www.opiates.com/opiates-blog/opiates-for-chronic-pain
+            - generic [ref=e538]: "2026"
+            - paragraph [ref=e540]: For individuals living with chronic pain, opiates can feel like both relief and risk. These medications are often prescribed when other treatments fail to provide
+            - 'link "Read more about Opiates for Chronic Pain: What Patients and Families Need to Understand" [ref=e541] [cursor=pointer]':
+              - /url: https://www.opiates.com/opiates-blog/opiates-for-chronic-pain
+              - text: Read More »
+        - listitem [ref=e542]:
+          - link "A doctor speaks with a seated patient about the risks of prescription opioid pills in a bright, modern medical office." [ref=e543] [cursor=pointer]:
+            - /url: https://www.opiates.com/opiates-blog/oxycodone-abuse
+            - img "A doctor speaks with a seated patient about the risks of prescription opioid pills in a bright, modern medical office." [ref=e545]
+          - generic [ref=e546]:
+            - heading "Oxycodone Abuse" [level=3] [ref=e547]:
+              - link "Oxycodone Abuse" [ref=e548] [cursor=pointer]:
+                - /url: https://www.opiates.com/opiates-blog/oxycodone-abuse
+            - generic [ref=e549]: "2025"
+            - paragraph [ref=e551]: Understanding Risks, Warning Signs, Withdrawal, and Overdose PreventionEducational Information Only Oxycodone is a semi-synthetic opioid prescribed for moderate to severe pain. While effective when used
+            - link "Read more about Oxycodone Abuse" [ref=e552] [cursor=pointer]:
+              - /url: https://www.opiates.com/opiates-blog/oxycodone-abuse
+              - text: Read More »
+        - listitem [ref=e553]:
+          - link "american flags and the text thank you veterans against a dark green background" [ref=e554] [cursor=pointer]:
+            - /url: https://www.opiates.com/opiates-blog/remembering-the-forgotten-veterans
+            - img "american flags and the text thank you veterans against a dark green background" [ref=e556]
+          - generic [ref=e557]:
+            - 'heading "Remembering the Forgotten Veterans: A Humane Call for Opioid-Free Hospital Detox and Lasting Healing" [level=3] [ref=e558]':
+              - 'link "Remembering the Forgotten Veterans: A Humane Call for Opioid-Free Hospital Detox and Lasting Healing" [ref=e559] [cursor=pointer]':
+                - /url: https://www.opiates.com/opiates-blog/remembering-the-forgotten-veterans
+            - generic [ref=e560]: "2025"
+            - paragraph [ref=e562]: Honoring True Service and Sacrifice Every veteran carries a personal legacy of courage, sacrifice, and selflessness a legacy that often goes unseen in civilian life.
+            - 'link "Read more about Remembering the Forgotten Veterans: A Humane Call for Opioid-Free Hospital Detox and Lasting Healing" [ref=e563] [cursor=pointer]':
+              - /url: https://www.opiates.com/opiates-blog/remembering-the-forgotten-veterans
+              - text: Read More »
+      - link "More Blogs" [ref=e567] [cursor=pointer]:
+        - /url: https://www.opiates.com/blog
+        - generic [ref=e569]: More Blogs
+  - contentinfo [ref=e570]:
+    - generic [ref=e573]:
+      - link [ref=e577] [cursor=pointer]:
+        - /url: https://www.bbb.org/us/ca/beverly-hills/profile/drug-addiction-treatment/waismann-method-medical-group-1216-13032890#bbbseal
+      - link [ref=e581] [cursor=pointer]:
+        - /url: https://www.naadac.org/
+      - link [ref=e588] [cursor=pointer]:
+        - /url: https://compliancy-group.com/hipaa-compliance-verification/
+    - generic [ref=e592]:
+      - generic [ref=e596]:
+        - paragraph [ref=e599]
+        - list [ref=e605]:
+          - listitem [ref=e606]:
+            - link "1-800-423-2482" [ref=e607] [cursor=pointer]:
+              - /url: tel:1-800-423-2482
+              - generic [ref=e608]: 1-800-423-2482
+        - list [ref=e611]:
+          - listitem [ref=e612]:
+            - link "Facebook" [ref=e613] [cursor=pointer]:
+              - /url: https://www.facebook.com/waismannmethod
+              - generic [ref=e614]: Facebook
+          - listitem [ref=e616]:
+            - link "Twitter" [ref=e617] [cursor=pointer]:
+              - /url: https://twitter.com/opiates
+              - generic [ref=e618]: Twitter
+          - listitem [ref=e620]:
+            - link "Instagram" [ref=e621] [cursor=pointer]:
+              - /url: https://www.instagram.com/rapidopiatedetox/%20
+              - generic [ref=e622]: Instagram
+          - listitem [ref=e624]:
+            - link "Youtube" [ref=e625] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/OpiatesWaismannMethod%20
+              - generic [ref=e626]: Youtube
+          - listitem [ref=e628]:
+            - link "Linkedin" [ref=e629] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/2400244/admin/%20
+              - generic [ref=e630]: Linkedin
+      - generic [ref=e633]: Copyright © 2026 Anesthesia Assisted Medical Opiate Detoxification, Inc. All Rights Reserved.
+      - paragraph [ref=e636]:
+        - link "Terms of Service" [ref=e637] [cursor=pointer]:
+          - /url: https://www.opiates.com/legal
+        - text: "|"
+        - link "Privacy Policy" [ref=e638] [cursor=pointer]:
+          - /url: https://www.opiates.com/privacy-policy
+        - text: "|"
+        - link "Accessibility Statement" [ref=e639] [cursor=pointer]:
+          - /url: https://www.opiates.com/accessibility-statement
+        - text: "|"
+        - link "Sitemap" [ref=e640] [cursor=pointer]:
+          - /url: https://www.opiates.com/sitemap
+        - text: "|"
+        - link "Consent Preferences" [ref=e641] [cursor=pointer]:
+          - /url: "#"
+        - text: "| Mailing Address: 311 N. Robertson Blvd. Beverly Hills, CA 90211"
+      - paragraph [ref=e644]:
+        - text: "DISCLAIMER: The text presented on this page is not a substitute for professional medical advice. It is for your information only and may not represent your true individual medical situation. Do not hesitate to consult your healthcare provider if you have any questions or concerns. Do not use this information to diagnose or treat a health problem or disease without consulting a qualified healthcare professional. Be advised that"
+        - link "Opiates.com" [ref=e645] [cursor=pointer]:
+          - /url: https://url.emailprotection.link/?b9ud27HcgvPcOZldnYcj7cf64jrOquCVHEG1oyfWBW4ETHSngJFuW5DIUz_BHbS50Gw2OX55J4jPtVBBYfymgQQ~~
+        - text: articles are derived from various sources and may not reflect your own country’s regulations.
+    - text: 
