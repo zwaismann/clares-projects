@@ -362,6 +362,30 @@ ul { list-style: none; }
   color: #ffffff;
 }
 
+/* Photo background headers on subpages */
+.section-hero {
+  color: #ffffff;
+}
+
+.section-hero .section-tag {
+  color: var(--color-accent-light);
+}
+
+.section-hero h1,
+.section-hero .section-header h1,
+.section-hero .section-header h2 {
+  color: #ffffff;
+}
+
+.section-hero .lead,
+.section-hero .content-block .lead {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.section-hero .breadcrumb {
+  color: rgba(255, 255, 255, 0.5);
+}
+
 /* ---- Content Blocks ---- */
 
 .content-block {
@@ -973,6 +997,8 @@ ul { list-style: none; }
     padding: var(--space-md);
     border-bottom: 1px solid var(--color-border);
     gap: 0;
+    max-height: 80vh;
+    overflow-y: auto;
   }
 
   .nav-links.open {
@@ -980,9 +1006,10 @@ ul { list-style: none; }
   }
 
   .nav-links a {
-    padding: 0.75rem 0;
+    padding: 0.85rem 0;
     border-bottom: 1px solid var(--color-border);
     width: 100%;
+    font-size: 1rem;
   }
 
   .nav-links a:last-child {
@@ -1024,11 +1051,15 @@ ul { list-style: none; }
 
   .hero {
     min-height: 90vh;
-    padding: 8rem var(--space-md) var(--space-2xl);
+    padding: 7rem var(--space-md) var(--space-xl);
   }
 
   .hero h1 {
-    font-size: 2.4rem;
+    font-size: 2.2rem;
+  }
+
+  .hero-sub {
+    font-size: 1rem;
   }
 
   .hero-actions {
@@ -1039,11 +1070,66 @@ ul { list-style: none; }
   .btn {
     width: 100%;
     justify-content: center;
-    max-width: 280px;
+    max-width: 320px;
+    padding: 0.9rem 1.8rem;
+    font-size: 1rem;
   }
 
+  /* Subpage headers on mobile */
+  .section-hero h1,
+  .page-header h1 {
+    font-size: 1.8rem;
+    line-height: 1.2;
+  }
+
+  .section-hero .lead,
+  .page-header .page-intro {
+    font-size: 0.95rem;
+  }
+
+  /* Section spacing on mobile */
+  .section {
+    padding: var(--space-xl) 0;
+  }
+
+  .section-header {
+    margin-bottom: var(--space-lg);
+  }
+
+  .section-header h2 {
+    font-size: 1.6rem;
+  }
+
+  .content-block h3 {
+    font-size: 1.25rem;
+  }
+
+  /* Cards - better touch targets and spacing */
+  .card {
+    padding: var(--space-md);
+  }
+
+  .timeline-item {
+    padding: var(--space-md);
+  }
+
+  /* Help section on mobile */
+  .help-phone {
+    font-size: 1.5rem;
+  }
+
+  .help-content h2 {
+    font-size: 1.8rem;
+  }
+
+  /* Footer */
   .footer-inner {
     grid-template-columns: 1fr;
+  }
+
+  .footer-links a {
+    padding: 0.3rem 0;
+    font-size: 0.95rem;
   }
 
   .footer-bottom {
@@ -1052,7 +1138,30 @@ ul { list-style: none; }
     text-align: center;
   }
 
-  .section {
-    padding: var(--space-xl) 0;
+  /* Callout and warning on mobile */
+  .callout {
+    padding: var(--space-md);
+  }
+
+  .warning-banner {
+    padding: var(--space-md);
+  }
+
+  /* Info card on mobile */
+  .info-card {
+    padding: var(--space-md);
+  }
+
+  /* Image breaks on mobile */
+  .image-break-content blockquote {
+    font-size: 1.2rem;
+    padding: 0 var(--space-sm);
+  }
+
+  /* Styled lists - more tap space */
+  .check-list li,
+  .styled-list li {
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
   }
 }
