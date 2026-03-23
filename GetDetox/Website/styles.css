@@ -363,27 +363,34 @@ ul { list-style: none; }
 }
 
 /* Photo background headers on subpages */
-.section-hero {
+.section-hero,
+.section-hero * {
   color: #ffffff;
 }
 
 .section-hero .section-tag {
-  color: var(--color-accent-light);
+  color: var(--color-accent-light) !important;
 }
 
 .section-hero h1,
 .section-hero .section-header h1,
 .section-hero .section-header h2 {
-  color: #ffffff;
+  color: #ffffff !important;
+  font-family: var(--font-display);
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
 }
 
+.section-hero p,
 .section-hero .lead,
-.section-hero .content-block .lead {
-  color: rgba(255, 255, 255, 0.7) !important;
+.section-hero .content-block .lead,
+.section-hero .content-block p {
+  color: rgba(255, 255, 255, 0.75) !important;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
 }
 
-.section-hero .breadcrumb {
-  color: rgba(255, 255, 255, 0.5);
+.section-hero .breadcrumb,
+.section-hero .breadcrumb a {
+  color: rgba(255, 255, 255, 0.5) !important;
 }
 
 /* ---- Content Blocks ---- */

@@ -1,0 +1,175 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "getdetox" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Opioid Detox" [ref=e7] [cursor=pointer]:
+          - /url: /opioid-detox/
+        - link "Alcohol Detox" [ref=e8] [cursor=pointer]:
+          - /url: /alcohol-detox/
+        - link "Rapid Detox" [ref=e9] [cursor=pointer]:
+          - /url: /rapid-detox/
+        - link "Timeline" [ref=e10] [cursor=pointer]:
+          - /url: /detox-timeline/
+        - link "Cost" [ref=e11] [cursor=pointer]:
+          - /url: /detox-cost/
+        - link "Withdrawal" [ref=e12] [cursor=pointer]:
+          - /url: /withdrawal-symptoms/
+        - link "Home Detox" [ref=e13] [cursor=pointer]:
+          - /url: /detox-at-home/
+        - link "Get Help Now" [ref=e14] [cursor=pointer]:
+          - /url: "#help"
+  - main [ref=e15]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: A free, judgment-free resource
+        - heading "Understanding Drug & Alcohol Detox" [level=1] [ref=e20]
+        - paragraph [ref=e21]: Learn about withdrawal symptoms, treatment options, and how to find help. Free guides on opioid detox, alcohol detox, timelines, costs, and more.
+        - generic [ref=e22]:
+          - link "Opioid Detox Guide" [ref=e23] [cursor=pointer]:
+            - /url: /opioid-detox/
+          - link "Alcohol Detox Guide" [ref=e24] [cursor=pointer]:
+            - /url: /alcohol-detox/
+      - generic [ref=e26]: Scroll to learn more
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - paragraph [ref=e31]: The Basics
+        - heading "What Is Detox?" [level=2] [ref=e32]
+      - generic [ref=e33]:
+        - paragraph [ref=e34]: Detoxification is the process of clearing a substance from your body while managing the symptoms of withdrawal. It is the necessary first step before longer-term recovery can begin.
+        - paragraph [ref=e35]: When your body becomes dependent on a substance like opioids or alcohol, it adapts to functioning with that drug present. When you stop using, your body has to readjust. That readjustment is withdrawal, and it can range from deeply uncomfortable to medically dangerous depending on the substance, how long you have been using, and your overall health.
+        - paragraph [ref=e36]: Detox is not the same as treatment or recovery. It is the physical stabilization that makes treatment possible. Think of it as clearing the ground before you can build. After detox, ongoing support through counseling, medication-assisted treatment, or peer support groups is what sustains recovery.
+        - paragraph [ref=e37]:
+          - text: If you are wondering how long the process takes, read our
+          - link "detox timeline guide" [ref=e38] [cursor=pointer]:
+            - /url: /detox-timeline/
+          - text: . If you are unsure what to expect physically, start with our
+          - link "withdrawal symptoms overview" [ref=e39] [cursor=pointer]:
+            - /url: /withdrawal-symptoms/
+          - text: .
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - paragraph [ref=e43]: Explore by Topic
+        - heading "In-Depth Guides for Every Step" [level=2] [ref=e44]
+      - generic [ref=e45]:
+        - link "Substance Guide Opioid Detox Guide Withdrawal timeline, symptoms, medical detox, medication-assisted treatment, and what to expect when detoxing from opioids like heroin, fentanyl, or prescription painkillers." [ref=e46] [cursor=pointer]:
+          - /url: /opioid-detox/
+          - generic [ref=e47]: Substance Guide
+          - heading "Opioid Detox Guide" [level=4] [ref=e48]
+          - paragraph [ref=e49]: Withdrawal timeline, symptoms, medical detox, medication-assisted treatment, and what to expect when detoxing from opioids like heroin, fentanyl, or prescription painkillers.
+        - link "Substance Guide Alcohol Detox Guide Why alcohol withdrawal can be dangerous, severity levels, medical protocols, and how supervised detox keeps you safe through the process." [ref=e50] [cursor=pointer]:
+          - /url: /alcohol-detox/
+          - generic [ref=e51]: Substance Guide
+          - heading "Alcohol Detox Guide" [level=4] [ref=e52]
+          - paragraph [ref=e53]: Why alcohol withdrawal can be dangerous, severity levels, medical protocols, and how supervised detox keeps you safe through the process.
+        - link "Treatment Option What Is Rapid Detox? How accelerated detox works, who it is for, risks and benefits, cost considerations, and what the medical community says about this approach." [ref=e54] [cursor=pointer]:
+          - /url: /rapid-detox/
+          - generic [ref=e55]: Treatment Option
+          - heading "What Is Rapid Detox?" [level=4] [ref=e56]
+          - paragraph [ref=e57]: How accelerated detox works, who it is for, risks and benefits, cost considerations, and what the medical community says about this approach.
+        - link "Planning How Long Does Detox Take? Timelines for opioid, alcohol, and benzodiazepine withdrawal. What affects how long detox lasts and what to expect at each phase." [ref=e58] [cursor=pointer]:
+          - /url: /detox-timeline/
+          - generic [ref=e59]: Planning
+          - heading "How Long Does Detox Take?" [level=4] [ref=e60]
+          - paragraph [ref=e61]: Timelines for opioid, alcohol, and benzodiazepine withdrawal. What affects how long detox lasts and what to expect at each phase.
+        - link "Practical Info How Much Does Detox Cost? Inpatient vs. outpatient costs, what insurance covers, free and low-cost options, and how to avoid overpaying for treatment." [ref=e62] [cursor=pointer]:
+          - /url: /detox-cost/
+          - generic [ref=e63]: Practical Info
+          - heading "How Much Does Detox Cost?" [level=4] [ref=e64]
+          - paragraph [ref=e65]: Inpatient vs. outpatient costs, what insurance covers, free and low-cost options, and how to avoid overpaying for treatment.
+        - link "Symptoms Withdrawal Symptoms Guide A substance-by-substance breakdown of what withdrawal feels like, which symptoms are dangerous, and when to seek emergency help." [ref=e66] [cursor=pointer]:
+          - /url: /withdrawal-symptoms/
+          - generic [ref=e67]: Symptoms
+          - heading "Withdrawal Symptoms Guide" [level=4] [ref=e68]
+          - paragraph [ref=e69]: A substance-by-substance breakdown of what withdrawal feels like, which symptoms are dangerous, and when to seek emergency help.
+        - link "Safety Can You Detox at Home? When home detox may be an option, when it is not safe, harm reduction strategies, and how to prepare if you choose this route." [ref=e70] [cursor=pointer]:
+          - /url: /detox-at-home/
+          - generic [ref=e71]: Safety
+          - heading "Can You Detox at Home?" [level=4] [ref=e72]
+          - paragraph [ref=e73]: When home detox may be an option, when it is not safe, harm reduction strategies, and how to prepare if you choose this route.
+    - blockquote [ref=e76]: Recovery is not a straight line. But every step forward matters.
+    - generic [ref=e78]:
+      - generic [ref=e79]:
+        - paragraph [ref=e80]: Recognizing the Signs
+        - heading "When to Seek Help" [level=2] [ref=e81]
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - paragraph [ref=e84]: You do not need to have "hit rock bottom" to deserve help. If substance use is affecting your life, that is reason enough.
+          - paragraph [ref=e85]: Many people wait because they think their situation is not bad enough, or because they are afraid of what detox will feel like. The truth is that early intervention leads to better outcomes, and modern medical detox is designed to keep you as comfortable and safe as possible.
+          - paragraph [ref=e86]:
+            - text: If you are unsure whether you need detox, talk to your doctor or call the SAMHSA helpline at
+            - link "1-800-662-4357" [ref=e87] [cursor=pointer]:
+              - /url: tel:18006624357
+            - text: . It is free, confidential, and available 24/7.
+        - generic [ref=e89]:
+          - heading "Common Signs You May Need Detox" [level=3] [ref=e90]
+          - list [ref=e91]:
+            - listitem [ref=e92]: You need increasing amounts to feel the same effect
+            - listitem [ref=e93]: You feel sick, anxious, or shaky when you stop using
+            - listitem [ref=e94]: You have tried to quit on your own and could not
+            - listitem [ref=e95]: Your use is affecting work, relationships, or health
+            - listitem [ref=e96]: You are using to avoid withdrawal, not to feel good
+            - listitem [ref=e97]: You are mixing substances or using more than intended
+            - listitem [ref=e98]: A loved one has expressed concern about your use
+          - paragraph [ref=e99]: Even one of these signs is worth taking seriously. Reaching out is not weakness - it is the first step toward getting better.
+    - generic [ref=e103]:
+      - generic [ref=e104]:
+        - paragraph [ref=e105]: You Don't Have to Do This Alone
+        - heading "Ready to Talk to Someone?" [level=2] [ref=e106]
+        - paragraph [ref=e107]: These free, confidential resources are available 24/7. No insurance needed, no commitment required. Just a conversation.
+      - generic [ref=e108]:
+        - generic [ref=e109]:
+          - heading "SAMHSA National Helpline" [level=3] [ref=e110]
+          - link "1-800-662-4357" [ref=e111] [cursor=pointer]:
+            - /url: tel:18006624357
+          - paragraph [ref=e112]: Free, confidential, 24/7 treatment referral and information. Available in English and Spanish.
+        - generic [ref=e113]:
+          - heading "Crisis Text Line" [level=3] [ref=e114]
+          - paragraph [ref=e115]:
+            - text: Text
+            - strong [ref=e116]: HOME
+            - text: to
+            - strong [ref=e117]: "741741"
+          - paragraph [ref=e118]: Free, 24/7 crisis support via text message. Trained counselors available anytime.
+        - generic [ref=e119]:
+          - heading "988 Suicide & Crisis Lifeline" [level=3] [ref=e120]
+          - link "988" [ref=e121] [cursor=pointer]:
+            - /url: tel:988
+          - paragraph [ref=e122]: Call or text. For anyone in emotional distress, including substance-related crises.
+  - contentinfo [ref=e123]:
+    - generic [ref=e124]:
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - link "getdetox" [ref=e127] [cursor=pointer]:
+            - /url: /
+          - paragraph [ref=e128]: An informational resource about drug and alcohol detoxification. This site does not provide medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.
+        - generic [ref=e129]:
+          - heading "Topics" [level=4] [ref=e130]
+          - link "Opioid Detox" [ref=e131] [cursor=pointer]:
+            - /url: /opioid-detox/
+          - link "Alcohol Detox" [ref=e132] [cursor=pointer]:
+            - /url: /alcohol-detox/
+          - link "Rapid Detox" [ref=e133] [cursor=pointer]:
+            - /url: /rapid-detox/
+          - link "Detox Timeline" [ref=e134] [cursor=pointer]:
+            - /url: /detox-timeline/
+          - link "Detox Cost" [ref=e135] [cursor=pointer]:
+            - /url: /detox-cost/
+          - link "Withdrawal Symptoms" [ref=e136] [cursor=pointer]:
+            - /url: /withdrawal-symptoms/
+          - link "Detox at Home" [ref=e137] [cursor=pointer]:
+            - /url: /detox-at-home/
+        - generic [ref=e138]:
+          - heading "Get Help" [level=4] [ref=e139]
+          - 'link "SAMHSA: 1-800-662-4357" [ref=e140] [cursor=pointer]':
+            - /url: tel:18006624357
+          - 'link "Crisis Line: 988" [ref=e141] [cursor=pointer]':
+            - /url: tel:988
+          - link "FindTreatment.gov" [ref=e142] [cursor=pointer]:
+            - /url: https://findtreatment.gov
+      - generic [ref=e143]:
+        - paragraph [ref=e144]: © 2026 GetDetox. For informational purposes only.
+        - paragraph [ref=e145]: If you are experiencing a medical emergency, call 911.
