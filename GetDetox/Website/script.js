@@ -30,6 +30,20 @@ window.addEventListener('scroll', () => {
   }
 }, { passive: true });
 
+// Cookie consent banner
+if (!localStorage.getItem('cookie-consent')) {
+  const banner = document.createElement('div');
+  banner.className = 'cookie-banner';
+  banner.innerHTML = '<p>This site uses cookies for analytics and site functionality. By continuing to use this site, you consent to our use of cookies. See our <a href="/legal/#s8">Privacy Policy</a> for details.</p><button id="cookieAccept">Got It</button>';
+  document.body.appendChild(banner);
+  setTimeout(() => banner.classList.add('visible'), 500);
+  document.getElementById('cookieAccept').addEventListener('click', () => {
+    localStorage.setItem('cookie-consent', 'accepted');
+    banner.classList.remove('visible');
+    setTimeout(() => banner.remove(), 400);
+  });
+}
+
 // Fade-in on scroll
 const observerOptions = {
   threshold: 0.1,
